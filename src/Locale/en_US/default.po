@@ -1,0 +1,6780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdLinkFly\n"
+"POT-Creation-Date: 2018-04-04 15:15+0200\n"
+"PO-Revision-Date: 2018-04-04 15:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: Mighty Scripts <admin@mightyscripts.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: config\n"
+"X-Poedit-SearchPath-2: plugins\n"
+
+#: config/functions.php:579 src/Template/Admin/Links/index.ctp:46
+#: src/Template/Admin/Options/index.ctp:657
+#: src/Template/Admin/Options/index.ctp:676
+msgid "No Advert"
+msgstr ""
+
+#: config/functions.php:583 src/Template/Admin/Options/index.ctp:655
+#: src/Template/Admin/Options/index.ctp:674
+msgid "Interstitial Advertisement"
+msgstr ""
+
+#: config/functions.php:587
+msgid "Banner Advertisement"
+msgstr ""
+
+#: config/functions.php:592
+msgid "Random(Interstitial or Banner) Advertisement"
+msgstr ""
+
+#: config/functions.php:602
+msgid "---"
+msgstr ""
+
+#: config/functions.php:603
+msgid "Earn"
+msgstr ""
+
+#: config/functions.php:604
+msgid "Disabled Cookies"
+msgstr ""
+
+#: config/functions.php:605
+msgid "Anonymous User"
+msgstr ""
+
+#: config/functions.php:606
+msgid "Adblock"
+msgstr ""
+
+#: config/functions.php:607
+msgid "Proxy"
+msgstr ""
+
+#: config/functions.php:608
+msgid "IP Changed"
+msgstr ""
+
+#: config/functions.php:609
+msgid "Not Unique"
+msgstr ""
+
+#: config/functions.php:610
+msgid "Full Weight"
+msgstr ""
+
+#: config/functions.php:611 src/Template/Admin/Campaigns/create_banner.ctp:54
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:54
+#: src/Template/Admin/Campaigns/create_popup.ctp:54
+#: src/Template/Admin/Campaigns/edit.ctp:23
+msgid "Default Campaign"
+msgstr ""
+
+#: config/functions.php:612 src/Template/Admin/Plans/add.ctp:188
+#: src/Template/Admin/Plans/edit.ctp:190
+msgid "Direct"
+msgstr ""
+
+#: config/functions.php:613
+msgid "Invalid country"
+msgstr ""
+
+#: config/functions.php:622 config/functions.php:676
+msgid "My Wallet"
+msgstr ""
+
+#: config/functions.php:626 config/functions.php:684
+msgid "PayPal"
+msgstr ""
+
+#: config/functions.php:630
+msgid "Stripe"
+msgstr ""
+
+#: config/functions.php:634 config/functions.php:692
+msgid "Payza"
+msgstr ""
+
+#: config/functions.php:638 config/functions.php:700
+msgid "Skrill"
+msgstr ""
+
+#: config/functions.php:643 config/functions.php:648 config/functions.php:708
+msgid "Bitcoin"
+msgstr ""
+
+#: config/functions.php:652
+msgid "Webmoney"
+msgstr ""
+
+#: config/functions.php:656 config/functions.php:724
+msgid "Perfect Money"
+msgstr ""
+
+#: config/functions.php:660 config/functions.php:732
+msgid "Payeer"
+msgstr ""
+
+#: config/functions.php:664 config/functions.php:740
+msgid "Bank Transfer"
+msgstr ""
+
+#: config/functions.php:716
+msgid "Web Money"
+msgstr ""
+
+#: config/functions.php:897
+msgid "Afganistan"
+msgstr ""
+
+#: config/functions.php:898
+msgid "Albania"
+msgstr ""
+
+#: config/functions.php:899
+msgid "Algeria"
+msgstr ""
+
+#: config/functions.php:900
+msgid "American Samoa"
+msgstr ""
+
+#: config/functions.php:901
+msgid "Andorra"
+msgstr ""
+
+#: config/functions.php:902
+msgid "Angola"
+msgstr ""
+
+#: config/functions.php:903
+msgid "Anguilla"
+msgstr ""
+
+#: config/functions.php:904
+msgid "Antarctica"
+msgstr ""
+
+#: config/functions.php:905
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: config/functions.php:906
+msgid "Argentina"
+msgstr ""
+
+#: config/functions.php:907
+msgid "Armenia"
+msgstr ""
+
+#: config/functions.php:908
+msgid "Aruba"
+msgstr ""
+
+#: config/functions.php:909
+msgid "Australia"
+msgstr ""
+
+#: config/functions.php:910
+msgid "Austria"
+msgstr ""
+
+#: config/functions.php:911
+msgid "Åland Islands"
+msgstr ""
+
+#: config/functions.php:912
+msgid "Azerbaijan"
+msgstr ""
+
+#: config/functions.php:913
+msgid "Bahamas"
+msgstr ""
+
+#: config/functions.php:914
+msgid "Bahrain"
+msgstr ""
+
+#: config/functions.php:915
+msgid "Bangladesh"
+msgstr ""
+
+#: config/functions.php:916
+msgid "Barbados"
+msgstr ""
+
+#: config/functions.php:917
+msgid "Belarus"
+msgstr ""
+
+#: config/functions.php:918
+msgid "Belgium"
+msgstr ""
+
+#: config/functions.php:919
+msgid "Belize"
+msgstr ""
+
+#: config/functions.php:920
+msgid "Benin"
+msgstr ""
+
+#: config/functions.php:921
+msgid "Bermuda"
+msgstr ""
+
+#: config/functions.php:922
+msgid "Bhutan"
+msgstr ""
+
+#: config/functions.php:923
+msgid "Bolivia"
+msgstr ""
+
+#: config/functions.php:924
+msgid "Bosnia and Herzegowina"
+msgstr ""
+
+#: config/functions.php:925
+msgid "Botswana"
+msgstr ""
+
+#: config/functions.php:926
+msgid "Bouvet Island"
+msgstr ""
+
+#: config/functions.php:927
+msgid "Brazil"
+msgstr ""
+
+#: config/functions.php:928
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: config/functions.php:929
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: config/functions.php:930
+msgid "Bulgaria"
+msgstr ""
+
+#: config/functions.php:931
+msgid "Burkina Faso"
+msgstr ""
+
+#: config/functions.php:932
+msgid "Burundi"
+msgstr ""
+
+#: config/functions.php:933
+msgid "Cambodia"
+msgstr ""
+
+#: config/functions.php:934
+msgid "Cameroon"
+msgstr ""
+
+#: config/functions.php:935
+msgid "Canada"
+msgstr ""
+
+#: config/functions.php:936
+msgid "Cape Verde"
+msgstr ""
+
+#: config/functions.php:937
+msgid "Cayman Islands"
+msgstr ""
+
+#: config/functions.php:938
+msgid "Central African Republic"
+msgstr ""
+
+#: config/functions.php:939
+msgid "Chad"
+msgstr ""
+
+#: config/functions.php:940
+msgid "Chile"
+msgstr ""
+
+#: config/functions.php:941
+msgid "China"
+msgstr ""
+
+#: config/functions.php:942
+msgid "Christmas Island"
+msgstr ""
+
+#: config/functions.php:943
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: config/functions.php:944
+msgid "Colombia"
+msgstr ""
+
+#: config/functions.php:945
+msgid "Comoros"
+msgstr ""
+
+#: config/functions.php:946
+msgid "Congo"
+msgstr ""
+
+#: config/functions.php:947
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: config/functions.php:948
+msgid "Cook Islands"
+msgstr ""
+
+#: config/functions.php:949
+msgid "Costa Rica"
+msgstr ""
+
+#: config/functions.php:950
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: config/functions.php:951
+msgid "Curaçao"
+msgstr ""
+
+#: config/functions.php:952
+msgid "Croatia (Hrvatska)"
+msgstr ""
+
+#: config/functions.php:953
+msgid "Cuba"
+msgstr ""
+
+#: config/functions.php:954
+msgid "Cyprus"
+msgstr ""
+
+#: config/functions.php:955
+msgid "Czech Republic"
+msgstr ""
+
+#: config/functions.php:956
+msgid "Denmark"
+msgstr ""
+
+#: config/functions.php:957
+msgid "Djibouti"
+msgstr ""
+
+#: config/functions.php:958
+msgid "Dominica"
+msgstr ""
+
+#: config/functions.php:959
+msgid "Dominican Republic"
+msgstr ""
+
+#: config/functions.php:960
+msgid "East Timor"
+msgstr ""
+
+#: config/functions.php:961
+msgid "Ecuador"
+msgstr ""
+
+#: config/functions.php:962
+msgid "Egypt"
+msgstr ""
+
+#: config/functions.php:963
+msgid "El Salvador"
+msgstr ""
+
+#: config/functions.php:964
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: config/functions.php:965
+msgid "Eritrea"
+msgstr ""
+
+#: config/functions.php:966
+msgid "Estonia"
+msgstr ""
+
+#: config/functions.php:967
+msgid "Ethiopia"
+msgstr ""
+
+#: config/functions.php:968
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: config/functions.php:969
+msgid "Faroe Islands"
+msgstr ""
+
+#: config/functions.php:970
+msgid "Fiji"
+msgstr ""
+
+#: config/functions.php:971
+msgid "Finland"
+msgstr ""
+
+#: config/functions.php:972
+msgid "France"
+msgstr ""
+
+#: config/functions.php:973
+msgid "France, Metropolitan"
+msgstr ""
+
+#: config/functions.php:974
+msgid "French Guiana"
+msgstr ""
+
+#: config/functions.php:975
+msgid "French Polynesia"
+msgstr ""
+
+#: config/functions.php:976
+msgid "French Southern Territories"
+msgstr ""
+
+#: config/functions.php:977
+msgid "Gabon"
+msgstr ""
+
+#: config/functions.php:978
+msgid "Gambia"
+msgstr ""
+
+#: config/functions.php:979
+msgid "Georgia"
+msgstr ""
+
+#: config/functions.php:980
+msgid "Germany"
+msgstr ""
+
+#: config/functions.php:981
+msgid "Ghana"
+msgstr ""
+
+#: config/functions.php:982
+msgid "Gibraltar"
+msgstr ""
+
+#: config/functions.php:983
+msgid "Greece"
+msgstr ""
+
+#: config/functions.php:984
+msgid "Greenland"
+msgstr ""
+
+#: config/functions.php:985
+msgid "Grenada"
+msgstr ""
+
+#: config/functions.php:986
+msgid "Guadeloupe"
+msgstr ""
+
+#: config/functions.php:987
+msgid "Guam"
+msgstr ""
+
+#: config/functions.php:988
+msgid "Guatemala"
+msgstr ""
+
+#: config/functions.php:989
+msgid "Guinea"
+msgstr ""
+
+#: config/functions.php:990
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: config/functions.php:991
+msgid "Guyana"
+msgstr ""
+
+#: config/functions.php:992
+msgid "Haiti"
+msgstr ""
+
+#: config/functions.php:993
+msgid "Heard and Mc Donald Islands"
+msgstr ""
+
+#: config/functions.php:994
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: config/functions.php:995
+msgid "Honduras"
+msgstr ""
+
+#: config/functions.php:996
+msgid "Hong Kong"
+msgstr ""
+
+#: config/functions.php:997
+msgid "Hungary"
+msgstr ""
+
+#: config/functions.php:998
+msgid "Iceland"
+msgstr ""
+
+#: config/functions.php:999
+msgid "Isle of Man"
+msgstr ""
+
+#: config/functions.php:1000
+msgid "India"
+msgstr ""
+
+#: config/functions.php:1001
+msgid "Indonesia"
+msgstr ""
+
+#: config/functions.php:1002
+msgid "Iran (Islamic Republic of)"
+msgstr ""
+
+#: config/functions.php:1003
+msgid "Iraq"
+msgstr ""
+
+#: config/functions.php:1004
+msgid "Ireland"
+msgstr ""
+
+#: config/functions.php:1005
+msgid "Israel"
+msgstr ""
+
+#: config/functions.php:1006
+msgid "Italy"
+msgstr ""
+
+#: config/functions.php:1007
+msgid "Jersey"
+msgstr ""
+
+#: config/functions.php:1008
+msgid "Jamaica"
+msgstr ""
+
+#: config/functions.php:1009
+msgid "Japan"
+msgstr ""
+
+#: config/functions.php:1010
+msgid "Jordan"
+msgstr ""
+
+#: config/functions.php:1011
+msgid "Kazakhstan"
+msgstr ""
+
+#: config/functions.php:1012
+msgid "Kenya"
+msgstr ""
+
+#: config/functions.php:1013
+msgid "Kiribati"
+msgstr ""
+
+#: config/functions.php:1014
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: config/functions.php:1015
+msgid "Korea, Republic of"
+msgstr ""
+
+#: config/functions.php:1016
+msgid "Kosovo"
+msgstr ""
+
+#: config/functions.php:1017
+msgid "Kuwait"
+msgstr ""
+
+#: config/functions.php:1018
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: config/functions.php:1019
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: config/functions.php:1020
+msgid "Latvia"
+msgstr ""
+
+#: config/functions.php:1021
+msgid "Lebanon"
+msgstr ""
+
+#: config/functions.php:1022
+msgid "Lesotho"
+msgstr ""
+
+#: config/functions.php:1023
+msgid "Liberia"
+msgstr ""
+
+#: config/functions.php:1024
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: config/functions.php:1025
+msgid "Liechtenstein"
+msgstr ""
+
+#: config/functions.php:1026
+msgid "Lithuania"
+msgstr ""
+
+#: config/functions.php:1027
+msgid "Luxembourg"
+msgstr ""
+
+#: config/functions.php:1028
+msgid "Macau"
+msgstr ""
+
+#: config/functions.php:1029
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr ""
+
+#: config/functions.php:1030
+msgid "Madagascar"
+msgstr ""
+
+#: config/functions.php:1031
+msgid "Malawi"
+msgstr ""
+
+#: config/functions.php:1032
+msgid "Malaysia"
+msgstr ""
+
+#: config/functions.php:1033
+msgid "Maldives"
+msgstr ""
+
+#: config/functions.php:1034
+msgid "Mali"
+msgstr ""
+
+#: config/functions.php:1035
+msgid "Malta"
+msgstr ""
+
+#: config/functions.php:1036
+msgid "Marshall Islands"
+msgstr ""
+
+#: config/functions.php:1037
+msgid "Martinique"
+msgstr ""
+
+#: config/functions.php:1038
+msgid "Mauritania"
+msgstr ""
+
+#: config/functions.php:1039
+msgid "Mauritius"
+msgstr ""
+
+#: config/functions.php:1040
+msgid "Mayotte"
+msgstr ""
+
+#: config/functions.php:1041
+msgid "Mexico"
+msgstr ""
+
+#: config/functions.php:1042
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: config/functions.php:1043
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: config/functions.php:1044
+msgid "Monaco"
+msgstr ""
+
+#: config/functions.php:1045
+msgid "Montenegro"
+msgstr ""
+
+#: config/functions.php:1046
+msgid "Mongolia"
+msgstr ""
+
+#: config/functions.php:1047
+msgid "Montserrat"
+msgstr ""
+
+#: config/functions.php:1048
+msgid "Morocco"
+msgstr ""
+
+#: config/functions.php:1049
+msgid "Mozambique"
+msgstr ""
+
+#: config/functions.php:1050
+msgid "Myanmar"
+msgstr ""
+
+#: config/functions.php:1051
+msgid "Namibia"
+msgstr ""
+
+#: config/functions.php:1052
+msgid "Nauru"
+msgstr ""
+
+#: config/functions.php:1053
+msgid "Nepal"
+msgstr ""
+
+#: config/functions.php:1054
+msgid "Netherlands"
+msgstr ""
+
+#: config/functions.php:1055
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: config/functions.php:1056
+msgid "New Caledonia"
+msgstr ""
+
+#: config/functions.php:1057
+msgid "New Zealand"
+msgstr ""
+
+#: config/functions.php:1058
+msgid "Nicaragua"
+msgstr ""
+
+#: config/functions.php:1059
+msgid "Niger"
+msgstr ""
+
+#: config/functions.php:1060
+msgid "Nigeria"
+msgstr ""
+
+#: config/functions.php:1061
+msgid "Niue"
+msgstr ""
+
+#: config/functions.php:1062
+msgid "Norfolk Island"
+msgstr ""
+
+#: config/functions.php:1063
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: config/functions.php:1064
+msgid "Norway"
+msgstr ""
+
+#: config/functions.php:1065
+msgid "Oman"
+msgstr ""
+
+#: config/functions.php:1066
+msgid "Pakistan"
+msgstr ""
+
+#: config/functions.php:1067
+msgid "Palau"
+msgstr ""
+
+#: config/functions.php:1068
+msgid "Panama"
+msgstr ""
+
+#: config/functions.php:1069
+msgid "Papua New Guinea"
+msgstr ""
+
+#: config/functions.php:1070
+msgid "Paraguay"
+msgstr ""
+
+#: config/functions.php:1071
+msgid "Peru"
+msgstr ""
+
+#: config/functions.php:1072
+msgid "Philippines"
+msgstr ""
+
+#: config/functions.php:1073
+msgid "Pitcairn"
+msgstr ""
+
+#: config/functions.php:1074
+msgid "Poland"
+msgstr ""
+
+#: config/functions.php:1075
+msgid "Portugal"
+msgstr ""
+
+#: config/functions.php:1076
+msgid "Puerto Rico"
+msgstr ""
+
+#: config/functions.php:1077
+msgid "Palestine"
+msgstr ""
+
+#: config/functions.php:1078
+msgid "Qatar"
+msgstr ""
+
+#: config/functions.php:1079
+msgid "Reunion"
+msgstr ""
+
+#: config/functions.php:1080
+msgid "Romania"
+msgstr ""
+
+#: config/functions.php:1081
+msgid "Republic of Serbia"
+msgstr ""
+
+#: config/functions.php:1082
+msgid "Russian Federation"
+msgstr ""
+
+#: config/functions.php:1083
+msgid "Rwanda"
+msgstr ""
+
+#: config/functions.php:1084
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: config/functions.php:1085
+msgid "Saint LUCIA"
+msgstr ""
+
+#: config/functions.php:1086
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: config/functions.php:1087
+msgid "Samoa"
+msgstr ""
+
+#: config/functions.php:1088
+msgid "San Marino"
+msgstr ""
+
+#: config/functions.php:1089
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: config/functions.php:1090
+msgid "Saudi Arabia"
+msgstr ""
+
+#: config/functions.php:1091
+msgid "Senegal"
+msgstr ""
+
+#: config/functions.php:1092
+msgid "Seychelles"
+msgstr ""
+
+#: config/functions.php:1093
+msgid "Sierra Leone"
+msgstr ""
+
+#: config/functions.php:1094
+msgid "Singapore"
+msgstr ""
+
+#: config/functions.php:1095
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: config/functions.php:1096
+msgid "Slovenia"
+msgstr ""
+
+#: config/functions.php:1097
+msgid "Solomon Islands"
+msgstr ""
+
+#: config/functions.php:1098
+msgid "Somalia"
+msgstr ""
+
+#: config/functions.php:1099
+msgid "Sint Maarten"
+msgstr ""
+
+#: config/functions.php:1100
+msgid "South Africa"
+msgstr ""
+
+#: config/functions.php:1101
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: config/functions.php:1102
+msgid "Spain"
+msgstr ""
+
+#: config/functions.php:1103
+msgid "Sri Lanka"
+msgstr ""
+
+#: config/functions.php:1104
+msgid "St. Helena"
+msgstr ""
+
+#: config/functions.php:1105
+msgid "St. Pierre and Miquelon"
+msgstr ""
+
+#: config/functions.php:1106
+msgid "Sudan"
+msgstr ""
+
+#: config/functions.php:1107
+msgid "Suriname"
+msgstr ""
+
+#: config/functions.php:1108
+msgid "Svalbard and Jan Mayen Islands"
+msgstr ""
+
+#: config/functions.php:1109
+msgid "Swaziland"
+msgstr ""
+
+#: config/functions.php:1110
+msgid "Sweden"
+msgstr ""
+
+#: config/functions.php:1111
+msgid "Switzerland"
+msgstr ""
+
+#: config/functions.php:1112
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: config/functions.php:1113
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: config/functions.php:1114
+msgid "Tajikistan"
+msgstr ""
+
+#: config/functions.php:1115
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: config/functions.php:1116
+msgid "Thailand"
+msgstr ""
+
+#: config/functions.php:1117
+msgid "Togo"
+msgstr ""
+
+#: config/functions.php:1118
+msgid "Tokelau"
+msgstr ""
+
+#: config/functions.php:1119
+msgid "Tonga"
+msgstr ""
+
+#: config/functions.php:1120
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: config/functions.php:1121
+msgid "Tunisia"
+msgstr ""
+
+#: config/functions.php:1122
+msgid "Turkey"
+msgstr ""
+
+#: config/functions.php:1123
+msgid "Turkmenistan"
+msgstr ""
+
+#: config/functions.php:1124
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: config/functions.php:1125
+msgid "Tuvalu"
+msgstr ""
+
+#: config/functions.php:1126
+msgid "Uganda"
+msgstr ""
+
+#: config/functions.php:1127
+msgid "Ukraine"
+msgstr ""
+
+#: config/functions.php:1128
+msgid "United Arab Emirates"
+msgstr ""
+
+#: config/functions.php:1129
+msgid "United Kingdom"
+msgstr ""
+
+#: config/functions.php:1130
+msgid "United States"
+msgstr ""
+
+#: config/functions.php:1131
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: config/functions.php:1132
+msgid "Uruguay"
+msgstr ""
+
+#: config/functions.php:1133
+msgid "Uzbekistan"
+msgstr ""
+
+#: config/functions.php:1134
+msgid "Vanuatu"
+msgstr ""
+
+#: config/functions.php:1135
+msgid "Venezuela"
+msgstr ""
+
+#: config/functions.php:1136
+msgid "Vietnam"
+msgstr ""
+
+#: config/functions.php:1137
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: config/functions.php:1138
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: config/functions.php:1139
+msgid "Wallis and Futuna Islands"
+msgstr ""
+
+#: config/functions.php:1140
+msgid "Western Sahara"
+msgstr ""
+
+#: config/functions.php:1141
+msgid "Yemen"
+msgstr ""
+
+#: config/functions.php:1142
+msgid "Yugoslavia"
+msgstr ""
+
+#: config/functions.php:1143
+msgid "Zambia"
+msgstr ""
+
+#: config/functions.php:1144
+msgid "Zimbabwe"
+msgstr ""
+
+#: config/functions.php:1148
+msgid "Worldwide Deal(All Countries)"
+msgstr ""
+
+#: src/Controller/Admin/ActivationController.php:31
+msgid "Your license has been verified."
+msgstr ""
+
+#: src/Controller/Admin/AnnouncementsController.php:26
+msgid "Announcement has been added."
+msgstr ""
+
+#: src/Controller/Admin/AnnouncementsController.php:29
+#: src/Controller/Admin/AnnouncementsController.php:57
+#: src/Controller/Admin/LinksController.php:209
+#: src/Controller/Admin/OptionsController.php:139
+#: src/Controller/Admin/OptionsController.php:190
+#: src/Controller/Admin/OptionsController.php:241
+#: src/Controller/Admin/PagesController.php:35
+#: src/Controller/Admin/PagesController.php:69
+#: src/Controller/Admin/PlansController.php:32
+#: src/Controller/Admin/PlansController.php:69
+#: src/Controller/Admin/PostsController.php:35
+#: src/Controller/Admin/PostsController.php:69
+#: src/Controller/Admin/TestimonialsController.php:29
+#: src/Controller/Admin/TestimonialsController.php:60
+#: src/Controller/InstallController.php:120
+#: src/Controller/Member/InvoicesController.php:682
+#: src/Controller/Member/LinksController.php:197
+#: src/Controller/Member/UsersController.php:275
+#: src/Controller/Member/UsersController.php:361
+#: src/Controller/Member/UsersController.php:411
+msgid "Oops! There are mistakes in the form. Please make the correction."
+msgstr ""
+
+#: src/Controller/Admin/AnnouncementsController.php:37
+#: src/Controller/Admin/AnnouncementsController.php:47
+msgid "Invalid Announcement"
+msgstr ""
+
+#: src/Controller/Admin/AnnouncementsController.php:54
+msgid "Announcement has been updated."
+msgstr ""
+
+#: src/Controller/Admin/AnnouncementsController.php:69
+msgid "The announcement with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/AppAdminController.php:80
+msgid "You must have at least one interstitial campaign marked as default."
+msgstr ""
+
+#: src/Controller/Admin/AppAdminController.php:92
+msgid "You must have at least one banner campaign marked as default."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:79
+#: src/Controller/Admin/CampaignsController.php:339
+#: src/Controller/Admin/CampaignsController.php:348
+#: src/Controller/Member/CampaignsController.php:49
+msgid "Invalid campaign"
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:87
+#: src/Controller/Member/CampaignsController.php:57
+msgid "Campaign Not Found"
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:200
+#: src/Controller/Admin/CampaignsController.php:260
+#: src/Controller/Admin/CampaignsController.php:320
+#: src/Controller/Member/CampaignsController.php:224
+#: src/Controller/Member/CampaignsController.php:289
+#: src/Controller/Member/CampaignsController.php:353
+msgid "You must purchase at least from one country."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:207
+#: src/Controller/Admin/CampaignsController.php:267
+#: src/Controller/Admin/CampaignsController.php:327
+msgid "Your campaign has been created."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:210
+#: src/Controller/Admin/CampaignsController.php:270
+#: src/Controller/Admin/CampaignsController.php:330
+#: src/Controller/Member/CampaignsController.php:236
+#: src/Controller/Member/CampaignsController.php:300
+#: src/Controller/Member/CampaignsController.php:365
+msgid "Unable to create your campaign."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:367
+msgid "Campaign has been updated."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:370
+msgid "Unable to update campaign."
+msgstr ""
+
+#: src/Controller/Admin/CampaignsController.php:387
+#: src/Controller/Admin/CampaignsController.php:406
+#: src/Controller/Member/CampaignsController.php:383
+#: src/Controller/Member/CampaignsController.php:405
+msgid "Campaign not found"
+msgstr ""
+
+#: src/Controller/Admin/InvoicesController.php:22
+#: src/Controller/Admin/InvoicesController.php:27
+#: src/Controller/Member/InvoicesController.php:22
+#: src/Controller/Member/InvoicesController.php:27
+#: src/Controller/Member/InvoicesController.php:667
+#: src/Controller/Member/InvoicesController.php:672
+msgid "Invalid Invoice"
+msgstr ""
+
+#: src/Controller/Admin/InvoicesController.php:44
+msgid "The invoice with id: {0} has been marked as paid."
+msgstr ""
+
+#: src/Controller/Admin/InvoicesController.php:56
+#: src/Controller/Member/InvoicesController.php:694
+msgid "The invoice with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/LinksController.php:193
+#: src/Controller/Admin/LinksController.php:198
+#: src/Controller/LinksController.php:32
+#: src/Controller/Member/LinksController.php:156
+#: src/Controller/Member/LinksController.php:184
+#: src/Controller/StatisticsController.php:23
+#: src/Controller/StatisticsController.php:28
+#: src/Controller/StatisticsController.php:32
+msgid "Invalid link"
+msgstr ""
+
+#: src/Controller/Admin/LinksController.php:205
+msgid "The Link has been updated."
+msgstr ""
+
+#: src/Controller/Admin/LinksController.php:224
+#: src/Controller/Member/LinksController.php:218
+msgid "The Link with alias: {0} has been hidden."
+msgstr ""
+
+#: src/Controller/Admin/LinksController.php:238
+#: src/Controller/Member/LinksController.php:238
+msgid "The Link with alias: {0} has been unhidden."
+msgstr ""
+
+#: src/Controller/Admin/LinksController.php:252
+msgid "The Link with alias: {0} has been unhided."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:26
+msgid "Settings have been saved."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:37
+msgid "Email settings have been saved."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:45
+msgid "Social login settings have been saved."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:53
+msgid "Payment settings have been saved."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:61
+msgid "Withdrawal settings have been saved."
+msgstr ""
+
+#: src/Controller/Admin/OptionsController.php:105
+#: src/Controller/Admin/OptionsController.php:156
+#: src/Controller/Admin/OptionsController.php:207
+msgid "Invalid option"
+msgstr ""
+
+#: src/Controller/Admin/PagesController.php:32
+msgid "Page has been added."
+msgstr ""
+
+#: src/Controller/Admin/PagesController.php:43
+#: src/Controller/Admin/PagesController.php:53
+msgid "Invalid Page"
+msgstr ""
+
+#: src/Controller/Admin/PagesController.php:66
+msgid "Page has been updated."
+msgstr ""
+
+#: src/Controller/Admin/PagesController.php:88
+msgid "The page with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/PlansController.php:29
+msgid "Plan has been added."
+msgstr ""
+
+#: src/Controller/Admin/PlansController.php:40
+#: src/Controller/Admin/PlansController.php:50
+#: src/Controller/Admin/PlansController.php:77
+#: src/Controller/Admin/PlansController.php:87
+msgid "Invalid Plan"
+msgstr ""
+
+#: src/Controller/Admin/PlansController.php:66
+msgid "Plan has been updated."
+msgstr ""
+
+#: src/Controller/Admin/PlansController.php:81
+msgid "Default plan can't be deleted."
+msgstr ""
+
+#: src/Controller/Admin/PlansController.php:105
+msgid "The plan with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/PostsController.php:32
+msgid "Post has been added."
+msgstr ""
+
+#: src/Controller/Admin/PostsController.php:43
+#: src/Controller/Admin/PostsController.php:53
+msgid "Invalid Post"
+msgstr ""
+
+#: src/Controller/Admin/PostsController.php:66
+msgid "Post has been updated."
+msgstr ""
+
+#: src/Controller/Admin/PostsController.php:88
+msgid "The post with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/TestimonialsController.php:26
+msgid "Testimonial has been added."
+msgstr ""
+
+#: src/Controller/Admin/TestimonialsController.php:37
+#: src/Controller/Admin/TestimonialsController.php:47
+msgid "Invalid Testimonial"
+msgstr ""
+
+#: src/Controller/Admin/TestimonialsController.php:54
+msgid "Testimonial has been updated."
+msgstr ""
+
+#: src/Controller/Admin/TestimonialsController.php:72
+msgid "The testimonial with id: {0} has been deleted."
+msgstr ""
+
+#: src/Controller/Admin/UpgradeController.php:22
+msgid "Can not able to run upgrade. Error: "
+msgstr ""
+
+#: src/Controller/Admin/UpgradeController.php:42
+msgid "Database upgraded successfully."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:287
+#: src/Controller/Admin/WithdrawsController.php:94
+msgid "Please, select fields to export."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:338
+#: src/Controller/Admin/UsersController.php:348
+#: src/Controller/Admin/UsersController.php:409
+#: src/Controller/Admin/UsersController.php:414
+#: src/Controller/Admin/UsersController.php:434
+#: src/Controller/Admin/UsersController.php:439
+#: src/Controller/Admin/UsersController.php:459
+#: src/Controller/Admin/UsersController.php:464
+msgid "Invalid User"
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:398
+msgid "The user has been added."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:401
+#: src/Controller/Admin/UsersController.php:452
+#: src/Controller/Auth/UsersController.php:202
+msgid "Unable to add the user."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:447
+msgid ""
+"The activation email has been sent, Please ask your user to check email "
+"inbox or spam folder to activate his account."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:483
+msgid "The user has been updated."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:486
+msgid "Unable to edit user."
+msgstr ""
+
+#: src/Controller/Admin/UsersController.php:500
+msgid "The Link with id: {0} has been deactivated."
+msgstr ""
+
+#: src/Controller/Admin/WithdrawsController.php:141
+#: src/Controller/Admin/WithdrawsController.php:146
+msgid "Invalid Withdraw"
+msgstr ""
+
+#: src/Controller/Admin/WithdrawsController.php:304
+#: src/Controller/Admin/WithdrawsController.php:346
+msgid "The withdrawal request with id: {0} has been approved."
+msgstr ""
+
+#: src/Controller/Admin/WithdrawsController.php:325
+msgid "The withdrawal request money returned to the user account."
+msgstr ""
+
+#: src/Controller/Admin/WithdrawsController.php:372
+msgid "The withdrawal request with id: {0} has been completed."
+msgstr ""
+
+#: src/Controller/AppController.php:104
+msgid "This domain is owned by {0}!"
+msgstr ""
+
+#: src/Controller/AppController.php:106
+msgid "for any abuses please contact us at {0}"
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:51
+#: src/Controller/Auth/UsersController.php:139
+#: src/Controller/Auth/UsersController.php:261
+#: src/Controller/FormsController.php:46 src/Controller/LinksController.php:132
+#: src/Controller/LinksController.php:859
+msgid "The CAPTCHA was incorrect. Try again"
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:84
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:194
+msgid ""
+"Your account has been created. Please check your email inbox or spam folder "
+"to activate your account."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:199
+msgid "Your account has been created."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:215
+#: src/Controller/Auth/UsersController.php:228
+#: src/Controller/Member/UsersController.php:376
+msgid "Invalid Activation."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:237
+msgid "Your account has been activated."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:241
+msgid "Unable to activate your account."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:268
+msgid "Invalid User."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:280
+msgid "Kindly check your email for reset password link."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:284
+msgid "Unable to reset password."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:298
+#: src/Controller/ToolsController.php:168
+#: src/Controller/ToolsController.php:272
+msgid "Invalid Request."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:308
+msgid "Your password has been changed."
+msgstr ""
+
+#: src/Controller/Auth/UsersController.php:311
+msgid "Unable to change your password."
+msgstr ""
+
+#: src/Controller/FormsController.php:34 src/Controller/LinksController.php:839
+#: src/Controller/LinksController.php:870
+#: src/Controller/Member/InvoicesController.php:41
+#: src/Controller/ToolsController.php:34
+msgid "Bad Request."
+msgstr ""
+
+#: src/Controller/FormsController.php:55
+msgid "Your message has been sent!"
+msgstr ""
+
+#: src/Controller/FormsController.php:63
+msgid "Can't send the message. Please try again later."
+msgstr ""
+
+#: src/Controller/InstallController.php:62
+msgid "Connection failed: "
+msgstr ""
+
+#: src/Controller/InstallController.php:87
+msgid "Can not load initial data. "
+msgstr ""
+
+#: src/Controller/InstallController.php:166
+msgid "Could not copy configure.php file."
+msgstr ""
+
+#: src/Controller/InstallController.php:179
+msgid "Could not write configure.php file."
+msgstr ""
+
+#: src/Controller/LinksController.php:44
+#: src/Controller/StatisticsController.php:38
+#: src/Controller/StatisticsController.php:47
+msgid "404 Not Found"
+msgstr ""
+
+#: src/Controller/LinksController.php:882
+msgid "Invalid user"
+msgstr ""
+
+#: src/Controller/LinksController.php:975
+msgid "Invalid URL."
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:39
+msgid "Creating campaigns is currently disabled."
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:137
+#: src/Controller/Member/UsersController.php:249
+#: src/Controller/Member/UsersController.php:285
+#: src/Controller/Member/UsersController.php:298
+#: src/Controller/Member/UsersController.php:304
+msgid "Invalid request"
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:145
+msgid "Not found campaign"
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:157
+msgid "Advertising Campaign #"
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:182
+msgid "Creating interstitial campaigns is currently disabled."
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:231
+#: src/Controller/Member/CampaignsController.php:296
+#: src/Controller/Member/CampaignsController.php:360
+msgid ""
+"Your campaign has been added. After paying, we will review it and it will "
+"appear on the website."
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:247
+msgid "Creating banner campaigns is currently disabled."
+msgstr ""
+
+#: src/Controller/Member/CampaignsController.php:311
+msgid "Creating popup campaigns is currently disabled."
+msgstr ""
+
+#: src/Controller/Member/FormsController.php:21
+msgid "We will get back to you soon."
+msgstr ""
+
+#: src/Controller/Member/FormsController.php:24
+msgid "There was a problem submitting your form."
+msgstr ""
+
+#: src/Controller/Member/InvoicesController.php:57
+msgid "You don't have enough money in your wallet."
+msgstr ""
+
+#: src/Controller/Member/InvoicesController.php:96
+msgid "Not found campaign."
+msgstr ""
+
+#: src/Controller/Member/InvoicesController.php:127
+#: src/Controller/Member/InvoicesController.php:170
+#: src/Controller/Member/InvoicesController.php:206
+#: src/Controller/Member/InvoicesController.php:347
+#: src/Controller/Member/InvoicesController.php:399
+#: src/Controller/Member/InvoicesController.php:481
+#: src/Controller/Member/InvoicesController.php:523
+#: src/Controller/Member/InvoicesController.php:549
+msgid "Invoice"
+msgstr ""
+
+#: src/Controller/Member/InvoicesController.php:640
+msgid "Invalide payment method."
+msgstr ""
+
+#: src/Controller/Member/InvoicesController.php:679
+msgid "Invoice has been updated."
+msgstr ""
+
+#: src/Controller/Member/LinksController.php:164
+#: src/Controller/Member/ToolsController.php:14
+#: src/Controller/Member/ToolsController.php:27
+#: src/Controller/Member/ToolsController.php:66
+#: src/Controller/Member/ToolsController.php:77
+#: src/Controller/Member/ToolsController.php:88
+#: src/Controller/ToolsController.php:74 src/Controller/ToolsController.php:191
+#: src/Controller/ToolsController.php:300
+msgid "You must upgrade your plan so you can use this tool."
+msgstr ""
+
+#: src/Controller/Member/LinksController.php:193
+msgid "Your Link has been updated."
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:272
+msgid "Profile has been updated"
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:310
+#: src/Template/Member/Users/plans.ctp:119
+msgid "Yearly"
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:313
+#: src/Template/Member/Users/plans.ctp:109
+msgid "Monthly"
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:319
+msgid "{0} Premium Membership: {1}"
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:336
+msgid "An invoice with id: {0} has been generated."
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:357
+msgid "Kindly check your email to confirm it."
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:391
+msgid "Your email has been confirmed."
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:394
+msgid "Unable to confirm your email."
+msgstr ""
+
+#: src/Controller/Member/UsersController.php:408
+msgid "Password has been updated"
+msgstr ""
+
+#: src/Controller/Member/WithdrawsController.php:60
+msgid "You should fill your withdrawal info from your profile settings."
+msgstr ""
+
+#: src/Controller/Member/WithdrawsController.php:69
+msgid "Invalid withdrawal method."
+msgstr ""
+
+#: src/Controller/Member/WithdrawsController.php:77
+msgid "Withdraw amount should be equal or greater than {0}."
+msgstr ""
+
+#: src/Controller/Member/WithdrawsController.php:97
+msgid "Your withdraw has been request and under review."
+msgstr ""
+
+#: src/Controller/Member/WithdrawsController.php:99
+msgid "Unable to request the withdraw."
+msgstr ""
+
+#: src/Controller/PagesController.php:95 src/Controller/PagesController.php:101
+msgid "Invalid Page."
+msgstr ""
+
+#: src/Controller/PagesController.php:130
+#: src/Controller/PagesController.php:315
+#: src/Template/Admin/Campaigns/index.ctp:64
+#: src/Template/Admin/Campaigns/index.ctp:105
+#: src/Template/Admin/Links/index.ctp:45 src/Template/Layout/admin.ctp:217
+#: src/Template/Member/Campaigns/index.ctp:56
+#: src/Template/Member/Campaigns/index.ctp:97
+msgid "Banner"
+msgstr ""
+
+#: src/Controller/PagesController.php:134
+#: src/Controller/PagesController.php:319
+#: src/Template/Admin/Campaigns/index.ctp:63
+#: src/Template/Admin/Campaigns/index.ctp:104
+#: src/Template/Admin/Links/index.ctp:44 src/Template/Layout/admin.ctp:212
+#: src/Template/Member/Campaigns/index.ctp:55
+#: src/Template/Member/Campaigns/index.ctp:96
+msgid "Interstitial"
+msgstr ""
+
+#: src/Controller/PagesController.php:138
+#: src/Controller/PagesController.php:323
+#: src/Template/Admin/Campaigns/index.ctp:65
+#: src/Template/Admin/Campaigns/index.ctp:106 src/Template/Layout/admin.ctp:222
+#: src/Template/Member/Campaigns/index.ctp:57
+#: src/Template/Member/Campaigns/index.ctp:98
+msgid "Popup"
+msgstr ""
+
+#: src/Controller/PagesController.php:148
+#: src/Controller/PagesController.php:195
+#: src/Controller/PagesController.php:242
+#: src/Controller/PagesController.php:333
+#: src/Controller/PagesController.php:383
+#: src/Controller/PagesController.php:433
+msgid "Package Description / Country"
+msgstr ""
+
+#: src/Controller/PagesController.php:149
+#: src/Controller/PagesController.php:196
+#: src/Controller/PagesController.php:243
+msgid "Cost per 1000 Views"
+msgstr ""
+
+#: src/Controller/PagesController.php:153
+#: src/Controller/PagesController.php:200
+#: src/Controller/PagesController.php:247
+#: src/Controller/PagesController.php:338
+#: src/Controller/PagesController.php:388
+#: src/Controller/PagesController.php:438
+#: src/Template/Admin/Campaigns/edit.ctp:165
+msgid "Desktop"
+msgstr ""
+
+#: src/Controller/PagesController.php:156
+#: src/Controller/PagesController.php:203
+#: src/Controller/PagesController.php:250
+#: src/Controller/PagesController.php:341
+#: src/Controller/PagesController.php:391
+#: src/Controller/PagesController.php:441
+msgid "Mobile / Tablet"
+msgstr ""
+
+#: src/Controller/PagesController.php:159
+#: src/Controller/PagesController.php:206
+#: src/Controller/PagesController.php:253
+msgid "Both"
+msgstr ""
+
+#: src/Controller/PagesController.php:334
+#: src/Controller/PagesController.php:384
+#: src/Controller/PagesController.php:434
+msgid "Earnings per 1000 Views"
+msgstr ""
+
+#: src/Controller/PostsController.php:24 src/Controller/PostsController.php:38
+msgid "Not Found."
+msgstr ""
+
+#: src/Controller/PostsController.php:42 src/Controller/PostsController.php:48
+msgid "Invalid Post."
+msgstr ""
+
+#: src/Controller/ToolsController.php:46 src/Controller/ToolsController.php:184
+#: src/Controller/ToolsController.php:293
+msgid "Invalid API token."
+msgstr ""
+
+#: src/Controller/ToolsController.php:146
+msgid "Check the below errors."
+msgstr ""
+
+#: src/Form/ContactForm.php:26
+msgid "A name is required"
+msgstr ""
+
+#: src/Form/ContactForm.php:29 src/Form/MessageUserForm.php:27
+msgid "A valid email address is required"
+msgstr ""
+
+#: src/Form/ContactForm.php:31 src/Form/MessageUserForm.php:29
+msgid "A subject is required"
+msgstr ""
+
+#: src/Form/ContactForm.php:32 src/Form/MessageUserForm.php:30
+msgid "Message body is required"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:15
+msgid "{0}: New User Registration"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:30
+msgid "{0}: New Withdrawal Request"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:46
+msgid "{0}: New Invoice"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:62
+msgid "{0}: Paid Invoice"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:78
+msgid "{0}: Your Request for Withdrawal has been Approved"
+msgstr ""
+
+#: src/Mailer/NotificationMailer.php:94
+msgid "{0}: Your Request for Withdrawal has been Processed"
+msgstr ""
+
+#: src/Mailer/UserMailer.php:15
+msgid "{0}: New Account"
+msgstr ""
+
+#: src/Mailer/UserMailer.php:31
+msgid "{0}: Change Email"
+msgstr ""
+
+#: src/Mailer/UserMailer.php:47
+msgid "{0}: Password Reset"
+msgstr ""
+
+#: src/Model/Table/AnnouncementsTable.php:22
+#: src/Model/Table/CampaignsTable.php:30 src/Model/Table/CampaignsTable.php:65
+#: src/Model/Table/CampaignsTable.php:71 src/Model/Table/CampaignsTable.php:96
+#: src/Model/Table/PagesTable.php:31 src/Model/Table/PlansTable.php:21
+#: src/Model/Table/PlansTable.php:22 src/Model/Table/PlansTable.php:23
+#: src/Model/Table/PlansTable.php:24 src/Model/Table/PlansTable.php:25
+#: src/Model/Table/PlansTable.php:26 src/Model/Table/PlansTable.php:27
+#: src/Model/Table/PlansTable.php:28 src/Model/Table/PlansTable.php:29
+#: src/Model/Table/PlansTable.php:30 src/Model/Table/PlansTable.php:31
+#: src/Model/Table/PlansTable.php:32 src/Model/Table/PlansTable.php:33
+#: src/Model/Table/PlansTable.php:34 src/Model/Table/PlansTable.php:35
+#: src/Model/Table/PostsTable.php:40 src/Model/Table/TestimonialsTable.php:24
+#: src/Model/Table/UsersTable.php:159
+msgid "Choose a valid value."
+msgstr ""
+
+#: src/Model/Table/CampaignItemsTable.php:21
+msgid "Write a valid natural number."
+msgstr ""
+
+#: src/Model/Table/CampaignsTable.php:27 src/Model/Table/CampaignsTable.php:32
+#: src/Model/Table/CampaignsTable.php:33 src/Model/Table/CampaignsTable.php:34
+#: src/Model/Table/CampaignsTable.php:62 src/Model/Table/CampaignsTable.php:67
+msgid "This value should not be blank."
+msgstr ""
+
+#: src/Model/Table/CampaignsTable.php:37
+msgid "URL must be valid."
+msgstr ""
+
+#: src/Model/Table/CampaignsTable.php:48
+msgid "http and https urls only allowed."
+msgstr ""
+
+#: src/Model/Table/CampaignsTable.php:68
+msgid "You must have a purchase."
+msgstr ""
+
+#: src/Model/Table/CampaignsTable.php:80
+msgid "You must accept our terms and conditions."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:46
+msgid "URL is invalid."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:58
+msgid "http, https and magnet urls only allowed."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:128
+msgid "This domain is not allowed on our system."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:172
+msgid ""
+"Google currently report this URL as an active phishing, malware, or unwanted "
+"website."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:206
+msgid "PhishTank currently report this URL as an active phishing website."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:209
+msgid "Please add an alias."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:213
+msgid "Maximum alias length is 30 characters."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:220
+msgid "Alias should be a alpha numeric value"
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:238
+msgid "This alias is a reserved word."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:244
+msgid "Alias already exists."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:263 src/Model/Table/LinksTable.php:282
+msgid "This link contains banned words."
+msgstr ""
+
+#: src/Model/Table/LinksTable.php:287
+msgid "Choose a valid advertising type."
+msgstr ""
+
+#: src/Model/Table/PagesTable.php:26 src/Model/Table/PostsTable.php:35
+msgid "Slug must be unique."
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:76
+msgid "alphaNumeric Only"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:80 src/Model/Table/UsersTable.php:117
+#: src/Model/Table/UsersTable.php:212 src/Model/Table/UsersTable.php:240
+msgid "Minimum Length 5"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:84
+msgid "Maximum Length 150"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:98
+msgid "This username is a reserved word."
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:104
+msgid "Username already exists"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:110 src/Model/Table/UsersTable.php:127
+#: src/Model/Table/UsersTable.php:145 src/Model/Table/UsersTable.php:191
+#: src/Model/Table/UsersTable.php:222 src/Model/Table/UsersTable.php:250
+msgid "Not the same"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:121 src/Model/Table/UsersTable.php:216
+#: src/Model/Table/UsersTable.php:244
+msgid "Maximum Length 25"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:133 src/Model/Table/UsersTable.php:173
+#: src/Model/Table/UsersTable.php:234
+msgid "E-mail must be valid"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:139 src/Model/Table/UsersTable.php:186
+msgid "E-mail must be unique"
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:148 src/Model/Table/UsersTable.php:149
+#: src/Model/Table/UsersTable.php:150 src/Model/Table/UsersTable.php:151
+#: src/Model/Table/UsersTable.php:152 src/Model/Table/UsersTable.php:153
+#: src/Model/Table/UsersTable.php:154 src/Model/Table/UsersTable.php:155
+#: src/Model/Table/UsersTable.php:156 src/Model/Table/UsersTable.php:161
+msgid "This field should not be blank."
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:206
+msgid "Please enter current password."
+msgstr ""
+
+#: src/Model/Table/UsersTable.php:259
+msgid "Registration is currently closed."
+msgstr ""
+
+#: src/Model/Table/WithdrawsTable.php:20
+msgid "You must have a balance."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Cell/Testimonial/display.ctp:5
+#: plugins/ModernTheme/src/Template/Cell/Testimonial/display.ctp:5
+msgid "Client's Testimonials"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Cell/Testimonial/display.ctp:6
+msgid "What People Say?"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/contact.ctp:21
+#: plugins/ModernTheme/src/Template/Element/contact.ctp:22
+#: src/Template/Element/contact.ctp:23
+msgid "Your Name *"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/contact.ctp:32
+#: plugins/ModernTheme/src/Template/Element/contact.ctp:33
+#: src/Template/Element/contact.ctp:35
+msgid "Your Email *"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/contact.ctp:43
+#: plugins/ModernTheme/src/Template/Element/contact.ctp:44
+#: src/Template/Element/contact.ctp:47
+msgid "Your Subject *"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/contact.ctp:56
+#: plugins/ModernTheme/src/Template/Element/contact.ctp:55
+#: src/Template/Element/contact.ctp:61
+msgid "Your Message *"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/contact.ctp:84
+#: plugins/ModernTheme/src/Template/Element/contact.ctp:80
+#: src/Template/Element/contact.ctp:88
+msgid "Send Message"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/front_footer.ctp:18
+#: plugins/ModernTheme/src/Template/Element/front_footer.ctp:14
+#: src/Template/Auth/Users/signup.ctp:55 src/Template/Layout/captcha.ctp:106
+#: src/Template/Layout/front.ctp:135 src/Template/Layout/go_banner.ctp:107
+msgid "Privacy Policy"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/front_footer.ctp:20
+#: plugins/ModernTheme/src/Template/Element/front_footer.ctp:16
+#: src/Template/Layout/captcha.ctp:107 src/Template/Layout/front.ctp:137
+#: src/Template/Layout/go_banner.ctp:108
+msgid "Terms of Use"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/front_footer.ctp:39
+#: plugins/ModernTheme/src/Template/Element/front_footer.ctp:35
+#: src/Template/Layout/admin.ctp:404 src/Template/Layout/captcha.ctp:110
+#: src/Template/Layout/front.ctp:118 src/Template/Layout/go_banner.ctp:111
+#: src/Template/Layout/install.ctp:51 src/Template/Layout/member.ctp:387
+msgid "Copyright &copy;"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Element/shorten.ctp:23
+#: plugins/ModernTheme/src/Template/Element/shorten.ctp:22
+#: src/Template/Cell/Link/shorten_member.ctp:20
+#: src/Template/Element/shorten.ctp:22
+msgid "Your URL Here"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/captcha.ctp:20
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:16
+#: plugins/CloudTheme/src/Template/Layout/go_banner.ctp:20
+#: plugins/ModernTheme/src/Template/Layout/captcha.ctp:20
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:16
+#: plugins/ModernTheme/src/Template/Layout/go_banner.ctp:20
+#: src/Template/Layout/admin.ctp:63 src/Template/Layout/front.ctp:53
+#: src/Template/Layout/member.ctp:62
+msgid "Toggle navigation"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/captcha.ctp:42
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:40
+#: plugins/CloudTheme/src/Template/Layout/go_banner.ctp:42
+#: plugins/ModernTheme/src/Template/Layout/captcha.ctp:42
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:40
+#: plugins/ModernTheme/src/Template/Layout/go_banner.ctp:42
+#: src/Template/Layout/captcha.ctp:74 src/Template/Layout/front.ctp:80
+#: src/Template/Layout/go_banner.ctp:74
+msgid "Advertising"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/captcha.ctp:46
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:44
+#: plugins/CloudTheme/src/Template/Layout/go_banner.ctp:46
+#: plugins/ModernTheme/src/Template/Layout/captcha.ctp:46
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:44
+#: plugins/ModernTheme/src/Template/Layout/go_banner.ctp:46
+#: src/Template/Layout/captcha.ctp:78 src/Template/Layout/front.ctp:84
+#: src/Template/Layout/go_banner.ctp:78
+msgid "Payout Rates"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:36
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:36
+#: src/Template/Layout/front.ctp:76
+msgid "Home"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:48
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:48
+#: src/Template/Admin/Options/index.ctp:36 src/Template/Layout/admin.ctp:283
+#: src/Template/Posts/index.ctp:2 src/Template/Posts/index.ctp:4
+#: src/Template/Posts/index.ctp:13
+msgid "Blog"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:55
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:55
+#: src/Template/Admin/Users/dashboard.ctp:2
+#: src/Template/Admin/Users/dashboard.ctp:4 src/Template/Layout/admin.ctp:381
+#: src/Template/Layout/front.ctp:90 src/Template/Layout/member.ctp:339
+#: src/Template/Member/Users/dashboard.ctp:2
+#: src/Template/Member/Users/dashboard.ctp:4
+msgid "Dashboard"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:61
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:61
+#: src/Template/Layout/front.ctp:96
+msgid "Login"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/front.ctp:64
+#: plugins/ModernTheme/src/Template/Layout/front.ctp:64
+#: src/Template/Layout/front.ctp:99
+msgid "Sign Up"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Layout/go_interstitial.ctp:44
+#: plugins/ModernTheme/src/Template/Layout/go_interstitial.ctp:44
+#: src/Template/Layout/go_interstitial.ctp:82
+msgid "Please Wait"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:31
+#: plugins/CloudTheme/src/Template/Links/view_banner.ctp:30
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:31
+#: plugins/ModernTheme/src/Template/Links/view_banner.ctp:30
+#: src/Template/Links/captcha.ctp:34 src/Template/Links/view_banner.ctp:33
+msgid "From Our Blog"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:74
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:74
+#: src/Template/Links/captcha.ctp:45
+msgid "Please check the captcha box to proceed to the destination page."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:85
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:85
+#: src/Template/Links/captcha.ctp:59
+msgid "Click here to continue"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:98
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:67
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:98
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:72
+#: src/Template/Links/captcha.ctp:70 src/Template/Pages/home.ctp:40
+msgid "What is {0}?"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:100
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:100
+#: src/Template/Links/captcha.ctp:72
+msgid ""
+"{0} is a completely free tool where you can create short links, which apart "
+"from being free, you get paid! So, now you can make money from home, when "
+"managing and protecting your links. Register now!"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:106
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:106
+#: src/Template/Links/captcha.ctp:78
+msgid "Shorten URLs and earn money"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/captcha.ctp:107
+msgid ""
+"Signup for an account in just 2 minutes. Once you've completed your "
+"registration just start creating short URLs and sharing the links with your "
+"family and friends."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/view_banner.ctp:36
+#: plugins/ModernTheme/src/Template/Links/view_banner.ctp:36
+#: src/Template/Links/view_banner.ctp:39
+msgid "Your link is almost ready."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/view_banner.ctp:41
+#: plugins/ModernTheme/src/Template/Links/view_banner.ctp:41
+#: src/Template/Links/view_banner.ctp:42
+msgid "Seconds"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/view_banner.ctp:73
+#: plugins/ModernTheme/src/Template/Links/view_banner.ctp:73
+#: src/Template/Links/view_banner.ctp:55
+msgid "Please wait..."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/view_banner.ctp:99
+#: plugins/ModernTheme/src/Template/Links/view_banner.ctp:101
+#: src/Template/Admin/Activation/index.ctp:40
+#: src/Template/Admin/Announcements/add.ctp:42
+#: src/Template/Admin/Announcements/edit.ctp:44
+#: src/Template/Admin/Campaigns/create_banner.ctp:204
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:187
+#: src/Template/Admin/Campaigns/create_popup.ctp:187
+#: src/Template/Admin/Links/edit.ctp:63
+#: src/Template/Admin/Options/banner.ctp:87
+#: src/Template/Admin/Options/interstitial.ctp:87
+#: src/Template/Admin/Options/popup.ctp:87 src/Template/Admin/Pages/add.ctp:65
+#: src/Template/Admin/Pages/edit.ctp:67 src/Template/Admin/Plans/add.ctp:253
+#: src/Template/Admin/Plans/edit.ctp:255 src/Template/Admin/Posts/add.ctp:73
+#: src/Template/Admin/Posts/edit.ctp:75
+#: src/Template/Admin/Testimonials/add.ctp:60
+#: src/Template/Admin/Testimonials/edit.ctp:62
+#: src/Template/Admin/Users/add.ctp:58
+#: src/Template/Admin/Users/dashboard.ctp:38
+#: src/Template/Admin/Users/edit.ctp:109 src/Template/Admin/Users/export.ctp:44
+#: src/Template/Admin/Withdraws/edit.ctp:53
+#: src/Template/Admin/Withdraws/export.ctp:90
+#: src/Template/Auth/Users/forgot_password.ctp:27
+#: src/Template/Auth/Users/forgot_password.ctp:58
+#: src/Template/Install/adminuser.ctp:58 src/Template/Install/database.ctp:67
+#: src/Template/Links/view_banner.ctp:87
+#: src/Template/Member/Campaigns/create_banner.ctp:162
+#: src/Template/Member/Campaigns/create_interstitial.ctp:146
+#: src/Template/Member/Campaigns/create_popup.ctp:146
+#: src/Template/Member/Forms/support.ctp:49
+#: src/Template/Member/Links/edit.ctp:55
+#: src/Template/Member/Users/change_email.ctp:42
+#: src/Template/Member/Users/change_password.ctp:42
+#: src/Template/Member/Users/dashboard.ctp:38
+#: src/Template/Member/Users/profile.ctp:152 src/Template/Tools/st.ctp:28
+msgid "Submit"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Links/view_interstitial.ctp:33
+#: plugins/ModernTheme/src/Template/Links/view_interstitial.ctp:33
+#: src/Template/Links/view_interstitial.ctp:38
+msgid "Please Wait 10s"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:12
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:11
+#: src/Template/Pages/home.ctp:11
+msgid "Shorten URLs and"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:13
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:12
+#: src/Template/Pages/home.ctp:12
+msgid "earn money"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:32
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:35
+msgid "Create an account"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:38
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:43
+msgid "Shorten your link"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:44
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:51
+msgid "Earn Money"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:59
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:64
+msgid "Earn extra money"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:60
+msgid "Why join us?"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:68
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:73
+#: src/Template/Pages/home.ctp:41
+msgid ""
+"{0} is a completely free tool where you can create short links, which apart "
+"from being free, you get paid! So, now you can make money from home, when "
+"managing and protecting your links."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:76
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:81
+#: src/Template/Pages/home.ctp:50
+msgid "How and how much do I earn?"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:77
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:82
+msgid ""
+"How can you start making money with {0}? It's just 3 steps: create an "
+"account, create a link and post it - for every visit, you earn money. It's "
+"just that easy!"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:86
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:91
+#: src/Template/Pages/home.ctp:61
+msgid "{0}% Referral Bonus"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:88
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:93
+#: src/Template/Member/Users/referrals.ctp:11 src/Template/Pages/home.ctp:63
+#, php-format
+msgid ""
+"The {0} referral program is a great way to spread the word of this great "
+"service and to earn even more money with your short links! Refer friends and "
+"receive {1}% of their earnings for life!"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:97
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:102
+#: src/Template/Pages/home.ctp:73
+msgid "Featured Administration Panel"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:98
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:103
+#: src/Template/Pages/home.ctp:74
+msgid ""
+"Control all of the features from the administration panel with a click of a "
+"button."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:105
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:110
+#: src/Template/Pages/home.ctp:82
+msgid "Detailed Stats"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:106
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:111
+#: src/Template/Pages/home.ctp:83
+msgid ""
+"Know your audience. Analyse in detail what brings you the most income and "
+"what strategies you should adapt."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:113
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:118
+#: src/Template/Pages/home.ctp:91
+msgid "Low Minimum Payout"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:114
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:119
+#: src/Template/Pages/home.ctp:92
+msgid ""
+"You are required to earn only {0} before you will be paid. We can pay all "
+"users via their PayPal."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:122
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:127
+#: src/Template/Pages/home.ctp:101
+msgid "Highest Rates"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:123
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:128
+#: src/Template/Pages/home.ctp:102
+msgid "Make the most out of your traffic with our always increasing rates."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:130
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:135
+#: src/Template/Pages/home.ctp:110
+msgid "API"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:131
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:136
+#: src/Template/Pages/home.ctp:111
+msgid ""
+"Shorten links more quickly with easy to use API and bring your creative and "
+"advanced ideas to life."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:138
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:143
+#: src/Template/Layout/member.ctp:281 src/Template/Member/Forms/support.ctp:2
+#: src/Template/Member/Forms/support.ctp:4 src/Template/Pages/home.ctp:119
+msgid "Support"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:139
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:144
+#: src/Template/Pages/home.ctp:120
+msgid ""
+"A dedicated support team is ready to help with any questions you may have."
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:158
+#: src/Template/Pages/home.ctp:131
+msgid "Numbers speak for themselves"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:159
+#: src/Template/Pages/home.ctp:130
+msgid "Fast Growing"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:171
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:161
+#: src/Template/Pages/home.ctp:138
+msgid "Total Clicks"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:184
+#: src/Template/Admin/Users/view.ctp:31
+msgid "Total Links"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:197
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:183
+#: src/Template/Pages/home.ctp:146
+msgid "Registered users"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:213
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:204
+#: src/Template/Pages/contact.ctp:2 src/Template/Pages/contact.ctp:4
+#: src/Template/Pages/contact.ctp:13 src/Template/Pages/home.ctp:158
+msgid "Contact Us"
+msgstr ""
+
+#: plugins/CloudTheme/src/Template/Pages/home.ctp:214
+msgid "Get in touch!"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Cell/Testimonial/display.ctp:6
+msgid "What <b>People Say</b>?"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Links/captcha.ctp:107
+msgid ""
+"Signup for an account in just 2 minutes. Once you've completed your "
+"registration just start '.\n"
+"    'creating short URLs and sharing the links with your family and friends."
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:27
+msgid "It's just three steps"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:28
+msgid "How You <b>Start</b>?"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:65
+msgid "Why <b>join us?</b>"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:172
+#: src/Template/Pages/home.ctp:142
+msgid "Total URLs"
+msgstr ""
+
+#: plugins/ModernTheme/src/Template/Pages/home.ctp:205
+msgid "Let's <b>Make it Happen</b>?"
+msgstr ""
+
+#: src/Template/Admin/Activation/index.ctp:2
+#: src/Template/Admin/Activation/index.ctp:4
+msgid "License Activation"
+msgstr ""
+
+#: src/Template/Admin/Activation/index.ctp:16
+msgid "Personal Token"
+msgstr ""
+
+#: src/Template/Admin/Activation/index.ctp:24
+msgid "Click on this URL {0} to learn how to generate a personal token."
+msgstr ""
+
+#: src/Template/Admin/Activation/index.ctp:29
+msgid "Purchase Code"
+msgstr ""
+
+#: src/Template/Admin/Activation/index.ctp:37
+msgid "Click on this URL {0} to learn how to get your purchase code."
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:2
+#: src/Template/Admin/Announcements/add.ctp:4
+msgid "Add Announcement"
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:14
+#: src/Template/Admin/Announcements/edit.ctp:16
+#: src/Template/Admin/Announcements/index.ctp:13
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:101
+#: src/Template/Admin/Campaigns/create_popup.ctp:101
+#: src/Template/Admin/Links/edit.ctp:36 src/Template/Admin/Pages/add.ctp:14
+#: src/Template/Admin/Pages/edit.ctp:16 src/Template/Admin/Pages/index.ctp:13
+#: src/Template/Admin/Plans/add.ctp:93 src/Template/Admin/Plans/edit.ctp:95
+#: src/Template/Admin/Plans/index.ctp:13 src/Template/Admin/Posts/add.ctp:14
+#: src/Template/Admin/Posts/edit.ctp:16 src/Template/Admin/Posts/index.ctp:13
+#: src/Template/Admin/Testimonials/index.ctp:14
+#: src/Template/Member/Campaigns/create_interstitial.ctp:52
+#: src/Template/Member/Campaigns/create_popup.ctp:52
+#: src/Template/Member/Links/edit.ctp:25
+msgid "Title"
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:23
+#: src/Template/Admin/Announcements/edit.ctp:25
+#: src/Template/Admin/Announcements/index.ctp:14
+#: src/Template/Admin/Pages/add.ctp:30 src/Template/Admin/Pages/edit.ctp:32
+#: src/Template/Admin/Pages/index.ctp:15 src/Template/Admin/Plans/index.ctp:14
+#: src/Template/Admin/Posts/add.ctp:30 src/Template/Admin/Posts/edit.ctp:32
+#: src/Template/Admin/Posts/index.ctp:15
+#: src/Template/Admin/Testimonials/add.ctp:41
+#: src/Template/Admin/Testimonials/edit.ctp:43
+#: src/Template/Admin/Testimonials/index.ctp:15
+msgid "Published"
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:25
+#: src/Template/Admin/Announcements/edit.ctp:27
+#: src/Template/Admin/Announcements/index.ctp:41
+#: src/Template/Admin/Options/email.ctp:174
+#: src/Template/Admin/Options/email.ctp:191
+#: src/Template/Admin/Options/email.ctp:208
+#: src/Template/Admin/Options/email.ctp:225
+#: src/Template/Admin/Options/email.ctp:244
+#: src/Template/Admin/Options/email.ctp:261
+#: src/Template/Admin/Options/index.ctp:341
+#: src/Template/Admin/Options/index.ctp:530
+#: src/Template/Admin/Options/index.ctp:566
+#: src/Template/Admin/Options/index.ctp:583
+#: src/Template/Admin/Options/index.ctp:600
+#: src/Template/Admin/Options/index.ctp:617
+#: src/Template/Admin/Options/index.ctp:634
+#: src/Template/Admin/Options/index.ctp:698
+#: src/Template/Admin/Options/index.ctp:715
+#: src/Template/Admin/Options/index.ctp:732
+#: src/Template/Admin/Options/index.ctp:751
+#: src/Template/Admin/Options/index.ctp:771
+#: src/Template/Admin/Options/index.ctp:788
+#: src/Template/Admin/Options/index.ctp:805
+#: src/Template/Admin/Options/index.ctp:822
+#: src/Template/Admin/Options/index.ctp:935
+#: src/Template/Admin/Options/index.ctp:952
+#: src/Template/Admin/Options/index.ctp:1006
+#: src/Template/Admin/Options/index.ctp:1054
+#: src/Template/Admin/Options/index.ctp:1071
+#: src/Template/Admin/Options/index.ctp:1125
+#: src/Template/Admin/Options/index.ctp:1142
+#: src/Template/Admin/Options/index.ctp:1211
+#: src/Template/Admin/Options/index.ctp:1434
+#: src/Template/Admin/Options/index.ctp:1638
+#: src/Template/Admin/Options/index.ctp:1655
+#: src/Template/Admin/Options/index.ctp:1672
+#: src/Template/Admin/Options/index.ctp:1689
+#: src/Template/Admin/Options/index.ctp:1706
+#: src/Template/Admin/Options/index.ctp:1723
+#: src/Template/Admin/Options/index.ctp:1745
+#: src/Template/Admin/Options/index.ctp:1766
+#: src/Template/Admin/Options/index.ctp:1828
+#: src/Template/Admin/Options/index.ctp:1863
+#: src/Template/Admin/Options/payment.ctp:88
+#: src/Template/Admin/Options/payment.ctp:110
+#: src/Template/Admin/Options/payment.ctp:142
+#: src/Template/Admin/Options/payment.ctp:163
+#: src/Template/Admin/Options/payment.ctp:215
+#: src/Template/Admin/Options/payment.ctp:259
+#: src/Template/Admin/Options/payment.ctp:326
+#: src/Template/Admin/Options/payment.ctp:411
+#: src/Template/Admin/Options/payment.ctp:464
+#: src/Template/Admin/Options/payment.ctp:501
+#: src/Template/Admin/Options/payment.ctp:553
+#: src/Template/Admin/Options/payment.ctp:617
+#: src/Template/Admin/Options/social_login.ctp:26
+#: src/Template/Admin/Options/social_login.ctp:76
+#: src/Template/Admin/Options/social_login.ctp:126
+#: src/Template/Admin/Options/withdrawal.ctp:58
+#: src/Template/Admin/Options/withdrawal.ctp:91
+#: src/Template/Admin/Options/withdrawal.ctp:124
+#: src/Template/Admin/Options/withdrawal.ctp:157
+#: src/Template/Admin/Options/withdrawal.ctp:191
+#: src/Template/Admin/Options/withdrawal.ctp:224
+#: src/Template/Admin/Options/withdrawal.ctp:257
+#: src/Template/Admin/Options/withdrawal.ctp:290
+#: src/Template/Admin/Pages/add.ctp:32 src/Template/Admin/Pages/edit.ctp:34
+#: src/Template/Admin/Pages/index.ctp:42 src/Template/Admin/Plans/index.ctp:42
+#: src/Template/Admin/Posts/add.ctp:32 src/Template/Admin/Posts/edit.ctp:34
+#: src/Template/Admin/Posts/index.ctp:42
+#: src/Template/Admin/Testimonials/add.ctp:43
+#: src/Template/Admin/Testimonials/edit.ctp:45
+#: src/Template/Admin/Testimonials/index.ctp:42
+#: src/Template/Admin/Users/edit.ctp:42 src/Template/Admin/Users/index.ctp:10
+msgid "Yes"
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:26
+#: src/Template/Admin/Announcements/edit.ctp:28
+#: src/Template/Admin/Announcements/index.ctp:41
+#: src/Template/Admin/Options/email.ctp:175
+#: src/Template/Admin/Options/email.ctp:192
+#: src/Template/Admin/Options/email.ctp:209
+#: src/Template/Admin/Options/email.ctp:226
+#: src/Template/Admin/Options/email.ctp:245
+#: src/Template/Admin/Options/email.ctp:262
+#: src/Template/Admin/Options/index.ctp:342
+#: src/Template/Admin/Options/index.ctp:529
+#: src/Template/Admin/Options/index.ctp:567
+#: src/Template/Admin/Options/index.ctp:584
+#: src/Template/Admin/Options/index.ctp:601
+#: src/Template/Admin/Options/index.ctp:618
+#: src/Template/Admin/Options/index.ctp:635
+#: src/Template/Admin/Options/index.ctp:699
+#: src/Template/Admin/Options/index.ctp:716
+#: src/Template/Admin/Options/index.ctp:733
+#: src/Template/Admin/Options/index.ctp:752
+#: src/Template/Admin/Options/index.ctp:772
+#: src/Template/Admin/Options/index.ctp:789
+#: src/Template/Admin/Options/index.ctp:806
+#: src/Template/Admin/Options/index.ctp:823
+#: src/Template/Admin/Options/index.ctp:936
+#: src/Template/Admin/Options/index.ctp:953
+#: src/Template/Admin/Options/index.ctp:1007
+#: src/Template/Admin/Options/index.ctp:1055
+#: src/Template/Admin/Options/index.ctp:1072
+#: src/Template/Admin/Options/index.ctp:1126
+#: src/Template/Admin/Options/index.ctp:1143
+#: src/Template/Admin/Options/index.ctp:1212
+#: src/Template/Admin/Options/index.ctp:1435
+#: src/Template/Admin/Options/index.ctp:1639
+#: src/Template/Admin/Options/index.ctp:1656
+#: src/Template/Admin/Options/index.ctp:1673
+#: src/Template/Admin/Options/index.ctp:1690
+#: src/Template/Admin/Options/index.ctp:1707
+#: src/Template/Admin/Options/index.ctp:1724
+#: src/Template/Admin/Options/index.ctp:1746
+#: src/Template/Admin/Options/index.ctp:1767
+#: src/Template/Admin/Options/index.ctp:1829
+#: src/Template/Admin/Options/index.ctp:1864
+#: src/Template/Admin/Options/payment.ctp:87
+#: src/Template/Admin/Options/payment.ctp:109
+#: src/Template/Admin/Options/payment.ctp:141
+#: src/Template/Admin/Options/payment.ctp:162
+#: src/Template/Admin/Options/payment.ctp:214
+#: src/Template/Admin/Options/payment.ctp:258
+#: src/Template/Admin/Options/payment.ctp:325
+#: src/Template/Admin/Options/payment.ctp:410
+#: src/Template/Admin/Options/payment.ctp:463
+#: src/Template/Admin/Options/payment.ctp:500
+#: src/Template/Admin/Options/payment.ctp:552
+#: src/Template/Admin/Options/payment.ctp:616
+#: src/Template/Admin/Options/social_login.ctp:27
+#: src/Template/Admin/Options/social_login.ctp:77
+#: src/Template/Admin/Options/social_login.ctp:127
+#: src/Template/Admin/Options/withdrawal.ctp:57
+#: src/Template/Admin/Options/withdrawal.ctp:90
+#: src/Template/Admin/Options/withdrawal.ctp:123
+#: src/Template/Admin/Options/withdrawal.ctp:156
+#: src/Template/Admin/Options/withdrawal.ctp:190
+#: src/Template/Admin/Options/withdrawal.ctp:223
+#: src/Template/Admin/Options/withdrawal.ctp:256
+#: src/Template/Admin/Options/withdrawal.ctp:289
+#: src/Template/Admin/Pages/add.ctp:33 src/Template/Admin/Pages/edit.ctp:35
+#: src/Template/Admin/Pages/index.ctp:42 src/Template/Admin/Plans/index.ctp:42
+#: src/Template/Admin/Posts/add.ctp:33 src/Template/Admin/Posts/edit.ctp:35
+#: src/Template/Admin/Posts/index.ctp:42
+#: src/Template/Admin/Testimonials/add.ctp:44
+#: src/Template/Admin/Testimonials/edit.ctp:46
+#: src/Template/Admin/Testimonials/index.ctp:42
+#: src/Template/Admin/Users/edit.ctp:41 src/Template/Admin/Users/index.ctp:11
+msgid "No"
+msgstr ""
+
+#: src/Template/Admin/Announcements/add.ctp:35
+#: src/Template/Admin/Announcements/edit.ctp:37
+#: src/Template/Admin/Pages/add.ctp:41 src/Template/Admin/Pages/edit.ctp:43
+#: src/Template/Admin/Testimonials/add.ctp:53
+#: src/Template/Admin/Testimonials/edit.ctp:55
+msgid "Content"
+msgstr ""
+
+#: src/Template/Admin/Announcements/edit.ctp:2
+#: src/Template/Admin/Announcements/edit.ctp:4
+msgid "Edit Announcement"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:2
+#: src/Template/Admin/Announcements/index.ctp:4
+msgid "Manage Announcements"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:12
+#: src/Template/Admin/Campaigns/index.ctp:37
+#: src/Template/Admin/Pages/index.ctp:12 src/Template/Admin/Plans/index.ctp:12
+#: src/Template/Admin/Posts/index.ctp:12
+#: src/Template/Admin/Testimonials/index.ctp:13
+#: src/Template/Admin/Users/export.ctp:27 src/Template/Admin/Users/index.ctp:39
+#: src/Template/Admin/Users/index.ctp:132 src/Template/Admin/Users/view.ctp:73
+#: src/Template/Admin/Withdraws/edit.ctp:12
+#: src/Template/Admin/Withdraws/export.ctp:31
+#: src/Template/Member/Campaigns/index.ctp:38
+msgid "Id"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:15
+#: src/Template/Admin/Pages/index.ctp:16 src/Template/Admin/Posts/index.ctp:16
+#: src/Template/Admin/Testimonials/index.ctp:16
+#: src/Template/Admin/Users/index.ctp:139
+msgid "modified"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:16
+#: src/Template/Admin/Campaigns/index.ctp:125
+#: src/Template/Admin/Campaigns/view.ctp:87
+#: src/Template/Admin/Invoices/index.ctp:29
+#: src/Template/Admin/Invoices/view.ctp:56
+#: src/Template/Admin/Pages/index.ctp:17 src/Template/Admin/Plans/index.ctp:16
+#: src/Template/Admin/Posts/index.ctp:17
+#: src/Template/Admin/Testimonials/index.ctp:17
+#: src/Template/Admin/Users/export.ctp:35
+#: src/Template/Admin/Users/index.ctp:140 src/Template/Admin/Users/view.ctp:125
+#: src/Template/Admin/Withdraws/export.ctp:39
+#: src/Template/Member/Campaigns/index.ctp:112
+#: src/Template/Member/Campaigns/view.ctp:96
+#: src/Template/Member/Invoices/index.ctp:28
+#: src/Template/Member/Invoices/view.ctp:51
+msgid "Created"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:17
+#: src/Template/Admin/Campaigns/index.ctp:126
+#: src/Template/Admin/Invoices/index.ctp:30
+#: src/Template/Admin/Pages/index.ctp:18 src/Template/Admin/Plans/index.ctp:17
+#: src/Template/Admin/Posts/index.ctp:18
+#: src/Template/Admin/Testimonials/index.ctp:18
+#: src/Template/Admin/Users/index.ctp:141
+#: src/Template/Member/Campaigns/index.ctp:113
+#: src/Template/Member/Invoices/index.ctp:29
+msgid "Actions"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:45
+#: src/Template/Admin/Invoices/index.ctp:66
+#: src/Template/Admin/Pages/index.ctp:49 src/Template/Admin/Plans/delete.ctp:24
+#: src/Template/Admin/Plans/index.ctp:53 src/Template/Admin/Posts/index.ctp:50
+#: src/Template/Admin/Testimonials/index.ctp:45
+msgid "Delete"
+msgstr ""
+
+#: src/Template/Admin/Announcements/index.ctp:46
+#: src/Template/Admin/Campaigns/index.ctp:180
+#: src/Template/Admin/Campaigns/index.ctp:187
+#: src/Template/Admin/Campaigns/view.ctp:120
+#: src/Template/Admin/Campaigns/view.ctp:125
+#: src/Template/Admin/Campaigns/view.ctp:129
+#: src/Template/Admin/Invoices/index.ctp:60
+#: src/Template/Admin/Invoices/index.ctp:68
+#: src/Template/Admin/Links/hidden.ctp:120
+#: src/Template/Admin/Links/hidden.ctp:122
+#: src/Template/Admin/Links/index.ctp:129
+#: src/Template/Admin/Links/index.ctp:134 src/Template/Admin/Pages/index.ctp:50
+#: src/Template/Admin/Plans/delete.ctp:25 src/Template/Admin/Posts/index.ctp:51
+#: src/Template/Admin/Testimonials/index.ctp:46
+#: src/Template/Admin/Users/index.ctp:169
+#: src/Template/Admin/Users/index.ctp:183 src/Template/Admin/Users/view.ctp:248
+#: src/Template/Admin/Withdraws/index.ctp:157
+#: src/Template/Admin/Withdraws/index.ctp:165
+#: src/Template/Admin/Withdraws/index.ctp:173
+#: src/Template/Admin/Withdraws/index.ctp:181
+#: src/Template/Admin/Withdraws/view.ctp:25
+#: src/Template/Admin/Withdraws/view.ctp:33
+#: src/Template/Admin/Withdraws/view.ctp:41
+#: src/Template/Member/Campaigns/index.ctp:160
+#: src/Template/Member/Campaigns/index.ctp:167
+#: src/Template/Member/Campaigns/view.ctp:140
+#: src/Template/Member/Campaigns/view.ctp:147
+#: src/Template/Member/Links/hidden.ctp:103
+#: src/Template/Member/Links/index.ctp:113
+#: src/Template/Member/Withdraws/index.ctp:56
+msgid "Are you sure?"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:2
+#: src/Template/Admin/Campaigns/create_banner.ctp:4
+#: src/Template/Layout/admin.ctp:196 src/Template/Layout/member.ctp:245
+#: src/Template/Member/Campaigns/create_banner.ctp:2
+#: src/Template/Member/Campaigns/create_banner.ctp:4
+msgid "Create Banner Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:23
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:23
+#: src/Template/Admin/Campaigns/create_popup.ctp:23
+msgid "Why views/earnings/Statistics/analytics are not counting?"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:27
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:27
+#: src/Template/Admin/Campaigns/create_popup.ctp:27
+msgid ""
+"Important: <b>Default</b> campaigns will not count earnings so you need to "
+"create a non-default campaigns and earnings will start count."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:29
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:29
+#: src/Template/Admin/Campaigns/create_popup.ctp:29
+msgid ""
+"Anonymous(not registered users) short links will not earn, only registered "
+"can earn."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:31
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:31
+#: src/Template/Admin/Campaigns/create_popup.ctp:31
+msgid "Visitors must be unique within a 24 hours."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:32
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:32
+#: src/Template/Admin/Campaigns/create_popup.ctp:32
+msgid "Visitors must have JavaScript enabled"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:33
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:33
+#: src/Template/Admin/Campaigns/create_popup.ctp:33
+msgid "Visitors must have Cookies enabled"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:36
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:36
+#: src/Template/Admin/Campaigns/create_popup.ctp:36
+#: src/Template/Member/Campaigns/create_banner.ctp:27
+#: src/Template/Member/Campaigns/create_interstitial.ctp:28
+#: src/Template/Member/Campaigns/create_popup.ctp:28
+msgid "Must view your website for at least {0} seconds"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:51
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:51
+#: src/Template/Admin/Campaigns/create_popup.ctp:51
+#: src/Template/Admin/Campaigns/edit.ctp:20
+#: src/Template/Admin/Campaigns/index.ctp:67
+#: src/Template/Admin/Campaigns/index.ctp:119
+#: src/Template/Member/Campaigns/index.ctp:59
+#: src/Template/Member/Campaigns/index.ctp:106
+msgid "Campaign Type"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:53
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:53
+#: src/Template/Admin/Campaigns/create_popup.ctp:53
+#: src/Template/Admin/Campaigns/edit.ctp:22
+msgid "Non-default Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:60
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:60
+#: src/Template/Admin/Campaigns/create_popup.ctp:60
+#: src/Template/Admin/Campaigns/edit.ctp:29
+msgid "Default means that campaign will not count earning for publisher."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:65
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:65
+#: src/Template/Admin/Campaigns/create_popup.ctp:65
+#: src/Template/Admin/Campaigns/edit.ctp:34
+#: src/Template/Admin/Withdraws/edit.ctp:44
+#: src/Template/Admin/Withdraws/index.ctp:113
+msgid "User"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:67
+#: src/Template/Admin/Campaigns/create_banner.ctp:92
+#: src/Template/Admin/Campaigns/create_banner.ctp:115
+#: src/Template/Admin/Campaigns/create_banner.ctp:199
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:67
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:92
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:182
+#: src/Template/Admin/Campaigns/create_popup.ctp:67
+#: src/Template/Admin/Campaigns/create_popup.ctp:92
+#: src/Template/Admin/Campaigns/create_popup.ctp:182
+#: src/Template/Admin/Campaigns/edit.ctp:36
+#: src/Template/Admin/Campaigns/edit.ctp:61
+#: src/Template/Admin/Campaigns/edit.ctp:105
+#: src/Template/Admin/Campaigns/edit.ctp:168
+#: src/Template/Admin/Options/banner.ctp:82
+#: src/Template/Admin/Options/interstitial.ctp:82
+#: src/Template/Admin/Options/popup.ctp:82
+#: src/Template/Admin/Withdraws/edit.ctp:32
+#: src/Template/Member/Campaigns/create_banner.ctp:65
+#: src/Template/Member/Campaigns/create_banner.ctp:157
+#: src/Template/Member/Campaigns/create_interstitial.ctp:141
+#: src/Template/Member/Campaigns/create_popup.ctp:141
+#: src/Template/Member/Users/profile.ctp:87
+#: src/Template/Member/Users/profile.ctp:113
+msgid "Choose"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:74
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:74
+#: src/Template/Admin/Campaigns/create_popup.ctp:74
+#: src/Template/Admin/Campaigns/edit.ctp:43
+#: src/Template/Admin/Campaigns/view.ctp:38
+#: src/Template/Member/Campaigns/create_banner.ctp:42
+#: src/Template/Member/Campaigns/create_interstitial.ctp:43
+#: src/Template/Member/Campaigns/create_popup.ctp:43
+#: src/Template/Member/Campaigns/view.ctp:47
+msgid "Campaign Name"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:81
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:81
+#: src/Template/Admin/Campaigns/create_popup.ctp:81
+#: src/Template/Admin/Campaigns/edit.ctp:50
+#: src/Template/Admin/Campaigns/index.ctp:54
+#: src/Template/Admin/Campaigns/index.ctp:124
+#: src/Template/Admin/Campaigns/view.ctp:33
+#: src/Template/Admin/Invoices/index.ctp:23
+#: src/Template/Admin/Invoices/view.ctp:35 src/Template/Admin/Links/edit.ctp:16
+#: src/Template/Admin/Users/add.ctp:25 src/Template/Admin/Users/edit.ctp:27
+#: src/Template/Admin/Users/export.ctp:28 src/Template/Admin/Users/index.ctp:47
+#: src/Template/Admin/Users/index.ctp:134 src/Template/Admin/Users/view.ctp:77
+#: src/Template/Admin/Withdraws/edit.ctp:16
+#: src/Template/Admin/Withdraws/export.ctp:32
+#: src/Template/Admin/Withdraws/export.ctp:63
+#: src/Template/Admin/Withdraws/export.ctp:69
+#: src/Template/Admin/Withdraws/index.ctp:84
+#: src/Template/Admin/Withdraws/index.ctp:115
+#: src/Template/Admin/Withdraws/view.ctp:51
+#: src/Template/Member/Campaigns/index.ctp:46
+#: src/Template/Member/Campaigns/index.ctp:111
+#: src/Template/Member/Campaigns/view.ctp:43
+#: src/Template/Member/Invoices/index.ctp:23
+#: src/Template/Member/Invoices/view.ctp:28
+#: src/Template/Member/Withdraws/index.ctp:84
+msgid "Status"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:83
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:83
+#: src/Template/Admin/Campaigns/create_popup.ctp:83
+#: src/Template/Admin/Campaigns/edit.ctp:52
+#: src/Template/Admin/Campaigns/index.ctp:9
+#: src/Template/Admin/Campaigns/view.ctp:15
+#: src/Template/Admin/Links/edit.ctp:18 src/Template/Admin/Users/add.ctp:27
+#: src/Template/Admin/Users/edit.ctp:29 src/Template/Admin/Users/export.ctp:9
+#: src/Template/Admin/Users/index.ctp:15 src/Template/Admin/Users/view.ctp:9
+#: src/Template/Member/Campaigns/index.ctp:10
+#: src/Template/Member/Campaigns/view.ctp:15
+msgid "Active"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:84
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:84
+#: src/Template/Admin/Campaigns/create_popup.ctp:84
+#: src/Template/Admin/Campaigns/edit.ctp:53
+#: src/Template/Admin/Campaigns/index.ctp:10
+#: src/Template/Admin/Campaigns/view.ctp:16
+#: src/Template/Member/Campaigns/index.ctp:11
+#: src/Template/Member/Campaigns/view.ctp:16
+msgid "Paused"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:85
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:85
+#: src/Template/Admin/Campaigns/create_popup.ctp:85
+#: src/Template/Admin/Campaigns/edit.ctp:54
+#: src/Template/Admin/Campaigns/index.ctp:11
+#: src/Template/Admin/Campaigns/view.ctp:17
+#: src/Template/Admin/Invoices/index.ctp:11
+#: src/Template/Admin/Invoices/view.ctp:11
+#: src/Template/Member/Campaigns/index.ctp:12
+#: src/Template/Member/Campaigns/view.ctp:17
+#: src/Template/Member/Invoices/index.ctp:11
+#: src/Template/Member/Invoices/view.ctp:11
+msgid "Canceled"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:86
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:86
+#: src/Template/Admin/Campaigns/create_popup.ctp:86
+#: src/Template/Admin/Campaigns/edit.ctp:55
+#: src/Template/Admin/Campaigns/index.ctp:12
+#: src/Template/Admin/Campaigns/view.ctp:18
+#: src/Template/Member/Campaigns/index.ctp:13
+#: src/Template/Member/Campaigns/view.ctp:18
+msgid "Finished"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:87
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:87
+#: src/Template/Admin/Campaigns/create_popup.ctp:87
+#: src/Template/Admin/Campaigns/edit.ctp:56
+#: src/Template/Admin/Campaigns/index.ctp:13
+#: src/Template/Admin/Campaigns/view.ctp:19
+#: src/Template/Member/Campaigns/index.ctp:14
+#: src/Template/Member/Campaigns/view.ctp:19
+msgid "Under Review"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:88
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:88
+#: src/Template/Admin/Campaigns/create_popup.ctp:88
+#: src/Template/Admin/Campaigns/edit.ctp:57
+#: src/Template/Admin/Campaigns/index.ctp:14
+#: src/Template/Admin/Campaigns/view.ctp:20
+#: src/Template/Member/Campaigns/index.ctp:15
+#: src/Template/Member/Campaigns/view.ctp:20
+msgid "Pending Payment"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:89
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:89
+#: src/Template/Admin/Campaigns/create_popup.ctp:89
+#: src/Template/Admin/Campaigns/edit.ctp:58
+#: src/Template/Admin/Campaigns/index.ctp:15
+#: src/Template/Admin/Campaigns/view.ctp:21
+#: src/Template/Admin/Invoices/index.ctp:12
+#: src/Template/Admin/Invoices/view.ctp:12
+#: src/Template/Member/Campaigns/index.ctp:16
+#: src/Template/Member/Campaigns/view.ctp:21
+#: src/Template/Member/Invoices/index.ctp:12
+#: src/Template/Member/Invoices/view.ctp:12
+msgid "Invalid Payment"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:90
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:90
+#: src/Template/Admin/Campaigns/create_popup.ctp:90
+#: src/Template/Admin/Campaigns/edit.ctp:59
+#: src/Template/Admin/Campaigns/index.ctp:16
+#: src/Template/Admin/Campaigns/view.ctp:22
+#: src/Template/Admin/Invoices/index.ctp:13
+#: src/Template/Admin/Invoices/view.ctp:13
+#: src/Template/Member/Campaigns/index.ctp:17
+#: src/Template/Member/Campaigns/view.ctp:22
+#: src/Template/Member/Invoices/index.ctp:13
+#: src/Template/Member/Invoices/view.ctp:13
+msgid "Refunded"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:97
+#: src/Template/Admin/Campaigns/edit.ctp:87
+#: src/Template/Member/Campaigns/create_banner.ctp:47
+msgid "Banner Details"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:101
+#: src/Template/Admin/Campaigns/edit.ctp:91
+#: src/Template/Admin/Campaigns/view.ctp:58
+#: src/Template/Member/Campaigns/create_banner.ctp:51
+#: src/Template/Member/Campaigns/view.ctp:67
+msgid "Banner Name"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:105
+#: src/Template/Admin/Campaigns/edit.ctp:95
+#: src/Template/Member/Campaigns/create_banner.ctp:55
+msgid "(only for internal use)"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:109
+#: src/Template/Admin/Campaigns/edit.ctp:99
+#: src/Template/Admin/Campaigns/view.ctp:63
+#: src/Template/Member/Campaigns/create_banner.ctp:59
+#: src/Template/Member/Campaigns/view.ctp:72
+msgid "Banner Size"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:111
+#: src/Template/Admin/Campaigns/edit.ctp:101
+#: src/Template/Member/Campaigns/create_banner.ctp:61
+msgid "Leaderboard - 728x90"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:112
+#: src/Template/Admin/Campaigns/edit.ctp:102
+#: src/Template/Member/Campaigns/create_banner.ctp:62
+msgid "Full banner - 468x60"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:113
+#: src/Template/Admin/Campaigns/edit.ctp:103
+#: src/Template/Member/Campaigns/create_banner.ctp:63
+msgid "Large rectangle - 336x280"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:122
+#: src/Template/Admin/Campaigns/edit.ctp:112
+#: src/Template/Admin/Campaigns/view.ctp:68
+#: src/Template/Member/Campaigns/create_banner.ctp:72
+#: src/Template/Member/Campaigns/view.ctp:77
+msgid "Banner Code"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:128
+#: src/Template/Admin/Campaigns/edit.ctp:118
+#: src/Template/Member/Campaigns/create_banner.ctp:78
+msgid "(can be either HTML or JavaScript and must comply with our rules)"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:131
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:114
+#: src/Template/Admin/Campaigns/create_popup.ctp:114
+#: src/Template/Admin/Campaigns/edit.ctp:123
+#: src/Template/Admin/Campaigns/view.ctp:92
+#: src/Template/Member/Campaigns/create_banner.ctp:81
+#: src/Template/Member/Campaigns/create_interstitial.ctp:65
+#: src/Template/Member/Campaigns/create_popup.ctp:65
+#: src/Template/Member/Campaigns/view.ctp:101
+msgid "Advertising Rates"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:136
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:119
+#: src/Template/Admin/Campaigns/create_popup.ctp:119
+#: src/Template/Admin/Campaigns/edit.ctp:128
+#: src/Template/Admin/Campaigns/view.ctp:100
+#: src/Template/Admin/Campaigns/view.ctp:185
+#: src/Template/Admin/Reports/campaigns.ctp:154
+#: src/Template/Admin/Users/index.ctp:84 src/Template/Admin/Users/view.ctp:202
+#: src/Template/Admin/Withdraws/view.ctp:129
+#: src/Template/Member/Campaigns/create_banner.ctp:86
+#: src/Template/Member/Campaigns/create_interstitial.ctp:70
+#: src/Template/Member/Campaigns/create_popup.ctp:70
+#: src/Template/Member/Campaigns/view.ctp:110
+#: src/Template/Member/Users/profile.ctp:85
+#: src/Template/Statistics/view_info.ctp:61
+msgid "Country"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:137
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:120
+#: src/Template/Admin/Campaigns/create_popup.ctp:120
+#: src/Template/Admin/Campaigns/view.ctp:101
+#: src/Template/Member/Campaigns/create_banner.ctp:87
+#: src/Template/Member/Campaigns/create_interstitial.ctp:71
+#: src/Template/Member/Campaigns/create_popup.ctp:71
+#: src/Template/Member/Campaigns/view.ctp:111
+msgid "Price / 1,000"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:138
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:121
+#: src/Template/Admin/Campaigns/create_popup.ctp:121
+#: src/Template/Admin/Campaigns/edit.ctp:131
+#: src/Template/Admin/Campaigns/view.ctp:102
+#: src/Template/Member/Campaigns/create_banner.ctp:88
+#: src/Template/Member/Campaigns/create_interstitial.ctp:72
+#: src/Template/Member/Campaigns/create_popup.ctp:72
+#: src/Template/Member/Campaigns/view.ctp:112
+msgid "Purchase"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:177
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:160
+#: src/Template/Admin/Campaigns/create_popup.ctp:160
+#: src/Template/Member/Campaigns/create_banner.ctp:135
+#: src/Template/Member/Campaigns/create_interstitial.ctp:119
+#: src/Template/Member/Campaigns/create_popup.ctp:119
+msgid "You have ordered {0} visitors for a total of {1}"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:182
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:165
+#: src/Template/Admin/Campaigns/create_popup.ctp:165
+#: src/Template/Member/Campaigns/create_banner.ctp:140
+#: src/Template/Member/Campaigns/create_interstitial.ctp:124
+#: src/Template/Member/Campaigns/create_popup.ctp:124
+msgid "Create Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:193
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:176
+#: src/Template/Admin/Campaigns/create_popup.ctp:176
+#: src/Template/Member/Campaigns/create_banner.ctp:151
+#: src/Template/Member/Campaigns/create_interstitial.ctp:135
+#: src/Template/Member/Campaigns/create_popup.ctp:135
+msgid "Traffic Sources/Devices"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:195
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:178
+#: src/Template/Admin/Campaigns/create_popup.ctp:178
+#: src/Template/Admin/Options/banner.ctp:9
+#: src/Template/Admin/Options/interstitial.ctp:9
+#: src/Template/Admin/Options/popup.ctp:9
+#: src/Template/Member/Campaigns/create_banner.ctp:153
+#: src/Template/Member/Campaigns/create_interstitial.ctp:137
+#: src/Template/Member/Campaigns/create_popup.ctp:137
+msgid "Desktop, Mobile and Tablet"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:196
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:179
+#: src/Template/Admin/Campaigns/create_popup.ctp:179
+#: src/Template/Admin/Options/banner.ctp:10
+#: src/Template/Admin/Options/interstitial.ctp:10
+#: src/Template/Admin/Options/popup.ctp:10
+#: src/Template/Member/Campaigns/create_banner.ctp:154
+#: src/Template/Member/Campaigns/create_interstitial.ctp:138
+#: src/Template/Member/Campaigns/create_popup.ctp:138
+msgid "Desktop Only"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_banner.ctp:197
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:180
+#: src/Template/Admin/Campaigns/create_popup.ctp:180
+#: src/Template/Admin/Options/banner.ctp:11
+#: src/Template/Admin/Options/interstitial.ctp:11
+#: src/Template/Admin/Options/popup.ctp:11
+#: src/Template/Member/Campaigns/create_banner.ctp:155
+#: src/Template/Member/Campaigns/create_interstitial.ctp:139
+#: src/Template/Member/Campaigns/create_popup.ctp:139
+msgid "Mobile / Tablet Only"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:2
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:4
+#: src/Template/Layout/admin.ctp:192 src/Template/Layout/member.ctp:239
+#: src/Template/Member/Campaigns/create_interstitial.ctp:2
+#: src/Template/Member/Campaigns/create_interstitial.ctp:4
+msgid "Create Interstitial Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:97
+#: src/Template/Admin/Campaigns/create_popup.ctp:97
+#: src/Template/Admin/Campaigns/edit.ctp:67
+#: src/Template/Member/Campaigns/create_interstitial.ctp:48
+#: src/Template/Member/Campaigns/create_popup.ctp:48
+msgid "Website Details"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_interstitial.ctp:108
+#: src/Template/Admin/Campaigns/create_popup.ctp:108
+#: src/Template/Member/Campaigns/create_interstitial.ctp:59
+#: src/Template/Member/Campaigns/create_popup.ctp:59
+#: src/Template/Tools/bookmarklet.ctp:71
+msgid "URL"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/create_popup.ctp:2
+#: src/Template/Admin/Campaigns/create_popup.ctp:4
+#: src/Template/Layout/admin.ctp:200 src/Template/Layout/member.ctp:252
+#: src/Template/Member/Campaigns/create_popup.ctp:2
+#: src/Template/Member/Campaigns/create_popup.ctp:4
+msgid "Create Popup Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:2
+#: src/Template/Admin/Campaigns/edit.ctp:4
+msgid "Edit Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:71
+#: src/Template/Admin/Campaigns/view.ctp:45
+#: src/Template/Member/Campaigns/view.ctp:54
+msgid "Website Title"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:78
+#: src/Template/Admin/Campaigns/view.ctp:49
+#: src/Template/Member/Campaigns/view.ctp:58
+msgid "Website URL"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:129
+msgid "Advertiser Price / 1,000"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:130
+msgid "Publisher Price / 1,000"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:162
+msgid "Traffic Sources"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:164
+msgid "Desktop and Mobile"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:166
+msgid "Mobile"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/edit.ctp:173
+msgid "Update Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:2
+#: src/Template/Admin/Campaigns/index.ctp:4
+#: src/Template/Member/Campaigns/index.ctp:2
+#: src/Template/Member/Campaigns/index.ctp:4
+msgid "Manage Campaigns"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:46
+#: src/Template/Admin/Links/hidden.ctp:36
+#: src/Template/Admin/Links/inactive.ctp:36
+#: src/Template/Admin/Links/index.ctp:26
+#: src/Template/Admin/Withdraws/export.ctp:33
+#: src/Template/Admin/Withdraws/export.ctp:49
+#: src/Template/Admin/Withdraws/index.ctp:76
+#: src/Template/Email/html/admin_register.ctp:5
+#: src/Template/Email/text/admin_register.ctp:5
+msgid "User Id"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:77
+#: src/Template/Admin/Campaigns/index.ctp:120
+#: src/Template/Admin/Testimonials/add.ctp:14
+#: src/Template/Admin/Testimonials/edit.ctp:16
+#: src/Template/Email/html/contact.ctp:1 src/Template/Email/text/contact.ctp:1
+#: src/Template/Member/Campaigns/index.ctp:69
+#: src/Template/Member/Campaigns/index.ctp:107
+#: src/Template/Member/Forms/support.ctp:15
+msgid "Name"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:86
+#: src/Template/Member/Campaigns/index.ctp:78
+msgid "website title, url, banner name,.."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:90
+#: src/Template/Admin/Links/hidden.ctp:59
+#: src/Template/Admin/Links/inactive.ctp:59
+#: src/Template/Admin/Links/index.ctp:63
+#: src/Template/Admin/Reports/campaigns.ctp:96
+#: src/Template/Admin/Users/index.ctp:115
+#: src/Template/Admin/Withdraws/index.ctp:98
+#: src/Template/Member/Campaigns/index.ctp:82
+#: src/Template/Member/Links/hidden.ctp:49
+#: src/Template/Member/Links/index.ctp:49
+msgid "Filter"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:92
+#: src/Template/Admin/Links/hidden.ctp:61
+#: src/Template/Admin/Links/inactive.ctp:61
+#: src/Template/Admin/Links/index.ctp:65
+#: src/Template/Admin/Reports/campaigns.ctp:98
+#: src/Template/Admin/Users/index.ctp:117
+#: src/Template/Admin/Withdraws/index.ctp:100
+#: src/Template/Member/Campaigns/index.ctp:84
+#: src/Template/Member/Links/hidden.ctp:51
+#: src/Template/Member/Links/index.ctp:51
+msgid "Reset"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:110
+msgid "Non-default"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:111
+msgid "Default"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:117
+#: src/Template/Member/Campaigns/index.ctp:105
+msgid "Reference"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:118
+#: src/Template/Admin/Invoices/index.ctp:25
+#: src/Template/Admin/Invoices/view.ctp:26 src/Template/Admin/Users/add.ctp:37
+#: src/Template/Admin/Users/edit.ctp:69 src/Template/Admin/Users/export.ctp:29
+#: src/Template/Admin/Users/index.ctp:66 src/Template/Admin/Users/index.ctp:133
+#: src/Template/Admin/Users/referrals.ctp:16
+#: src/Template/Admin/Users/view.ctp:81 src/Template/Admin/Users/view.ctp:226
+#: src/Template/Admin/Withdraws/view.ctp:76
+#: src/Template/Auth/Users/signup.ctp:13
+#: src/Template/Email/html/admin_invoice.ctp:5
+#: src/Template/Email/html/admin_paid_invoice.ctp:5
+#: src/Template/Email/html/admin_register.ctp:6
+#: src/Template/Email/html/admin_withdrawal.ctp:10
+#: src/Template/Email/text/admin_invoice.ctp:5
+#: src/Template/Email/text/admin_paid_invoice.ctp:5
+#: src/Template/Email/text/admin_register.ctp:7
+#: src/Template/Email/text/admin_withdrawal.ctp:9
+#: src/Template/Install/adminuser.ctp:29
+#: src/Template/Member/Users/referrals.ctp:35
+msgid "Username"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:121
+#: src/Template/Admin/Campaigns/view.ctp:74
+#: src/Template/Admin/Campaigns/view.ctp:103
+#: src/Template/Member/Campaigns/index.ctp:108
+#: src/Template/Member/Campaigns/view.ctp:83
+#: src/Template/Member/Campaigns/view.ctp:113
+msgid "Price"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:122
+#: src/Template/Admin/Campaigns/view.ctp:78
+#: src/Template/Admin/Invoices/index.ctp:27
+#: src/Template/Admin/Invoices/view.ctp:47
+#: src/Template/Member/Campaigns/index.ctp:109
+#: src/Template/Member/Campaigns/view.ctp:87
+#: src/Template/Member/Invoices/index.ctp:26
+#: src/Template/Member/Invoices/view.ctp:41
+#: src/Template/Member/Invoices/view.ctp:72
+msgid "Payment Method"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:123
+#: src/Template/Admin/Campaigns/view.ctp:83
+#: src/Template/Admin/Campaigns/view.ctp:104
+#: src/Template/Member/Campaigns/index.ctp:110
+#: src/Template/Member/Campaigns/view.ctp:92
+#: src/Template/Member/Campaigns/view.ctp:114
+msgid "Visitors/Total"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:167
+#: src/Template/Admin/Invoices/index.ctp:51
+#: src/Template/Admin/Pages/index.ctp:46 src/Template/Admin/Posts/index.ctp:46
+#: src/Template/Admin/Users/index.ctp:173
+#: src/Template/Admin/Withdraws/index.ctp:147
+#: src/Template/Member/Campaigns/index.ctp:145
+#: src/Template/Member/Invoices/index.ctp:44
+msgid "View"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:172
+#: src/Template/Admin/Links/hidden.ctp:117
+#: src/Template/Admin/Links/inactive.ctp:115
+#: src/Template/Admin/Links/index.ctp:122 src/Template/Admin/Plans/index.ctp:47
+#: src/Template/Admin/Users/index.ctp:176 src/Template/Admin/Users/view.ctp:243
+#: src/Template/Member/Links/hidden.ctp:97
+#: src/Template/Member/Links/index.ctp:106
+msgid "Edit"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:178
+#: src/Template/Admin/Campaigns/view.ctp:124
+#: src/Template/Member/Campaigns/index.ctp:158
+#: src/Template/Member/Campaigns/view.ctp:138
+msgid "Pause"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/index.ctp:185
+#: src/Template/Admin/Campaigns/view.ctp:128
+#: src/Template/Member/Campaigns/index.ctp:165
+#: src/Template/Member/Campaigns/view.ctp:145
+msgid "Resume"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:2
+#: src/Template/Admin/Campaigns/view.ctp:4
+#: src/Template/Member/Campaigns/view.ctp:2
+#: src/Template/Member/Campaigns/view.ctp:4
+msgid "Campaign #{0}"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:29
+#: src/Template/Member/Campaigns/view.ctp:39
+msgid "Campaign Details"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:84
+#: src/Template/Member/Campaigns/view.ctp:93
+msgid "/"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:119
+#: src/Template/Member/Campaigns/view.ctp:33
+#: src/Template/Member/Campaigns/view.ctp:130
+msgid "Pay Campaign"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:144
+#: src/Template/Admin/Reports/campaigns.ctp:112
+msgid "Campaign Clicks Details"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:151
+#: src/Template/Admin/Reports/campaigns.ctp:119
+msgid "Click Type"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:152
+#: src/Template/Admin/Campaigns/view.ctp:186
+#: src/Template/Admin/Campaigns/view.ctp:218
+#: src/Template/Admin/Reports/campaigns.ctp:120
+#: src/Template/Admin/Reports/campaigns.ctp:155
+#: src/Template/Admin/Reports/campaigns.ctp:187
+#: src/Template/Admin/Withdraws/view.ctp:107
+#: src/Template/Admin/Withdraws/view.ctp:130
+#: src/Template/Admin/Withdraws/view.ctp:155
+#: src/Template/Admin/Withdraws/view.ctp:180
+#: src/Template/Admin/Withdraws/view.ctp:205
+msgid "Count"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:153
+#: src/Template/Admin/Campaigns/view.ctp:187
+#: src/Template/Admin/Campaigns/view.ctp:219
+#: src/Template/Admin/Reports/campaigns.ctp:121
+#: src/Template/Admin/Reports/campaigns.ctp:156
+#: src/Template/Admin/Reports/campaigns.ctp:188
+#: src/Template/Admin/Users/dashboard.ctp:65
+#: src/Template/Admin/Users/edit.ctp:93
+#: src/Template/Admin/Withdraws/export.ctp:34
+#: src/Template/Admin/Withdraws/index.ctp:116
+#: src/Template/Admin/Withdraws/view.ctp:55
+#: src/Template/Admin/Withdraws/view.ctp:131
+#: src/Template/Admin/Withdraws/view.ctp:156
+#: src/Template/Admin/Withdraws/view.ctp:181
+#: src/Template/Email/html/admin_withdrawal.ctp:11
+#: src/Template/Email/text/admin_withdrawal.ctp:11
+#: src/Template/Member/Withdraws/index.ctp:85
+msgid "Publisher Earnings"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:165
+#: src/Template/Admin/Campaigns/view.ctp:201
+#: src/Template/Admin/Campaigns/view.ctp:233
+#: src/Template/Admin/Reports/campaigns.ctp:133
+#: src/Template/Admin/Reports/campaigns.ctp:170
+#: src/Template/Admin/Reports/campaigns.ctp:202
+msgid "No available data."
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:178
+#: src/Template/Admin/Reports/campaigns.ctp:147
+#: src/Template/Admin/Withdraws/view.ctp:123
+#: src/Template/Statistics/view_info.ctp:50
+msgid "Countries"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:210
+#: src/Template/Admin/Reports/campaigns.ctp:179
+msgid "Referers"
+msgstr ""
+
+#: src/Template/Admin/Campaigns/view.ctp:217
+#: src/Template/Admin/Reports/campaigns.ctp:186
+msgid "Referer"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:2
+#: src/Template/Admin/Invoices/index.ctp:4
+#: src/Template/Member/Invoices/index.ctp:2
+#: src/Template/Member/Invoices/index.ctp:4
+msgid "Manage Invoices"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:9
+#: src/Template/Admin/Invoices/view.ctp:9
+#: src/Template/Member/Invoices/index.ctp:9
+#: src/Template/Member/Invoices/view.ctp:9
+msgid "Paid"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:10
+#: src/Template/Admin/Invoices/view.ctp:10
+#: src/Template/Member/Invoices/index.ctp:10
+#: src/Template/Member/Invoices/view.ctp:10
+msgid "Unpaid"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:22
+#: src/Template/Admin/Withdraws/index.ctp:112
+#: src/Template/Admin/Withdraws/view.ctp:47
+#: src/Template/Member/Invoices/index.ctp:22
+#: src/Template/Member/Withdraws/index.ctp:82
+msgid "ID"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:24
+#: src/Template/Admin/Invoices/view.ctp:39 src/Template/Admin/Links/edit.ctp:44
+#: src/Template/Admin/Plans/add.ctp:122 src/Template/Admin/Plans/edit.ctp:124
+#: src/Template/Admin/Posts/add.ctp:49 src/Template/Admin/Posts/edit.ctp:51
+#: src/Template/Email/html/admin_invoice.ctp:7
+#: src/Template/Email/html/admin_paid_invoice.ctp:7
+#: src/Template/Email/text/admin_invoice.ctp:9
+#: src/Template/Email/text/admin_paid_invoice.ctp:9
+#: src/Template/Member/Invoices/index.ctp:24
+#: src/Template/Member/Invoices/view.ctp:32
+#: src/Template/Member/Links/edit.ctp:33
+msgid "Description"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:26
+#: src/Template/Admin/Invoices/view.ctp:43
+#: src/Template/Admin/Withdraws/edit.ctp:40
+#: src/Template/Admin/Withdraws/export.ctp:36
+#: src/Template/Admin/Withdraws/view.ctp:63
+#: src/Template/Email/html/admin_invoice.ctp:8
+#: src/Template/Email/html/admin_paid_invoice.ctp:8
+#: src/Template/Email/text/admin_invoice.ctp:11
+#: src/Template/Email/text/admin_paid_invoice.ctp:11
+#: src/Template/Member/Invoices/index.ctp:25
+#: src/Template/Member/Invoices/view.ctp:36
+msgid "Amount"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:28
+#: src/Template/Member/Invoices/index.ctp:27
+msgid "Paid date"
+msgstr ""
+
+#: src/Template/Admin/Invoices/index.ctp:58
+msgid "Mark as paid"
+msgstr ""
+
+#: src/Template/Admin/Invoices/view.ctp:2
+#: src/Template/Admin/Invoices/view.ctp:4
+#: src/Template/Admin/Invoices/view.ctp:20
+#: src/Template/Member/Invoices/view.ctp:2
+#: src/Template/Member/Invoices/view.ctp:4
+#: src/Template/Member/Invoices/view.ctp:20
+msgid "Invoice #{0}"
+msgstr ""
+
+#: src/Template/Admin/Invoices/view.ctp:52
+#: src/Template/Member/Invoices/view.ctp:47
+msgid "Paid Date"
+msgstr ""
+
+#: src/Template/Admin/Links/edit.ctp:2 src/Template/Admin/Links/edit.ctp:4
+#: src/Template/Member/Links/edit.ctp:2 src/Template/Member/Links/edit.ctp:4
+msgid "Edit Link: {0}"
+msgstr ""
+
+#: src/Template/Admin/Links/edit.ctp:19 src/Template/Admin/Plans/add.ctp:83
+#: src/Template/Admin/Plans/edit.ctp:85 src/Template/Admin/Plans/index.ctp:39
+msgid "Hidden"
+msgstr ""
+
+#: src/Template/Admin/Links/edit.ctp:20 src/Template/Admin/Users/add.ctp:29
+#: src/Template/Admin/Users/edit.ctp:31 src/Template/Admin/Users/export.ctp:11
+#: src/Template/Admin/Users/index.ctp:17 src/Template/Admin/Users/view.ctp:11
+msgid "Inactive"
+msgstr ""
+
+#: src/Template/Admin/Links/edit.ctp:28 src/Template/Member/Links/edit.ctp:16
+msgid "Long URL"
+msgstr ""
+
+#: src/Template/Admin/Links/edit.ctp:55 src/Template/Admin/Links/index.ctp:48
+#: src/Template/Cell/Link/shorten_member.ctp:53
+#: src/Template/Member/Links/edit.ctp:44 src/Template/Member/Links/index.ctp:34
+#: src/Template/Member/Tools/mass_shrinker.ctp:61
+#: src/Template/Tools/bookmarklet.ctp:95
+msgid "Advertising Type"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:2 src/Template/Admin/Links/hidden.ctp:4
+#: src/Template/Admin/Links/inactive.ctp:2
+#: src/Template/Admin/Links/inactive.ctp:4 src/Template/Admin/Links/index.ctp:2
+#: src/Template/Admin/Links/index.ctp:4 src/Template/Layout/admin.ctp:163
+#: src/Template/Layout/member.ctp:174 src/Template/Member/Links/hidden.ctp:2
+#: src/Template/Member/Links/hidden.ctp:4 src/Template/Member/Links/index.ctp:2
+#: src/Template/Member/Links/index.ctp:4
+msgid "Manage Links"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:26
+#: src/Template/Admin/Links/inactive.ctp:26
+#: src/Template/Member/Links/hidden.ctp:26
+msgid "Link Id"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:46
+#: src/Template/Admin/Links/inactive.ctp:46
+#: src/Template/Admin/Links/index.ctp:36
+#: src/Template/Cell/Link/shorten_member.ctp:36
+#: src/Template/Cell/Link/shorten_member.ctp:38
+#: src/Template/Member/Links/hidden.ctp:36
+#: src/Template/Member/Links/index.ctp:26 src/Template/Tools/bookmarklet.ctp:81
+#: src/Template/Tools/bookmarklet.ctp:84
+msgid "Alias"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:55
+#: src/Template/Admin/Links/inactive.ctp:55
+#: src/Template/Admin/Links/index.ctp:59
+#: src/Template/Member/Links/hidden.ctp:45
+#: src/Template/Member/Links/index.ctp:45
+msgid "Title, Desc. or URL"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:89
+#: src/Template/Admin/Links/inactive.ctp:87
+#: src/Template/Admin/Links/index.ctp:93 src/Template/Member/Links/index.ctp:72
+msgid "Stats"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:119
+#: src/Template/Member/Links/hidden.ctp:102
+msgid "Unhide"
+msgstr ""
+
+#: src/Template/Admin/Links/hidden.ctp:121
+#: src/Template/Admin/Links/index.ctp:132
+#: src/Template/Admin/Users/index.ctp:181 src/Template/Admin/Users/view.ctp:246
+msgid "Deactivate"
+msgstr ""
+
+#: src/Template/Admin/Links/index.ctp:115 src/Template/Element/js_vars.ctp:6
+#: src/Template/Member/Links/index.ctp:98
+msgid "Copy"
+msgstr ""
+
+#: src/Template/Admin/Links/index.ctp:127
+#: src/Template/Member/Links/index.ctp:112
+msgid "Hide"
+msgstr ""
+
+#: src/Template/Admin/Options/banner.ctp:2
+#: src/Template/Admin/Options/banner.ctp:4
+msgid "Banner Advertisement Price"
+msgstr ""
+
+#: src/Template/Admin/Options/banner.ctp:26
+msgid "Set Prices For Traffic Source {0}"
+msgstr ""
+
+#: src/Template/Admin/Options/banner.ctp:70
+#: src/Template/Admin/Options/email.ctp:275
+#: src/Template/Admin/Options/index.ctp:1946
+#: src/Template/Admin/Options/interstitial.ctp:70
+#: src/Template/Admin/Options/payment.ctp:643
+#: src/Template/Admin/Options/popup.ctp:70
+#: src/Template/Admin/Options/social_login.ctp:164
+#: src/Template/Admin/Options/withdrawal.ctp:331
+msgid "Save"
+msgstr ""
+
+#: src/Template/Admin/Options/banner.ctp:80
+msgid "Select traffic source to set price For"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:2
+#: src/Template/Admin/Options/email.ctp:4
+msgid "Email Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:9
+#: src/Template/Admin/Options/index.ctp:9
+#: src/Template/Admin/Options/payment.ctp:11
+#: src/Template/Admin/Options/social_login.ctp:11
+#: src/Template/Admin/Options/withdrawal.ctp:12
+msgid "Saving ..."
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:16
+#: src/Template/Admin/Options/index.ctp:2
+#: src/Template/Admin/Options/index.ctp:4 src/Template/Layout/admin.ctp:343
+#: src/Template/Layout/admin.ctp:349 src/Template/Layout/member.ctp:262
+msgid "Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:18
+msgid "Notifications"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:27
+msgid "Admin Email"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:37
+msgid "The recipient email for the contact form and support requests."
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:41
+msgid "Sending Email Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:44
+msgid "From Email"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:59
+msgid "Email Method"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:65
+msgid "PHP Mail Function"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:66
+msgid "SMTP"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:78
+msgid "SMTP Connection Security"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:84
+#: src/Template/Admin/Options/index.ctp:1161
+#: src/Template/Admin/Options/index.ctp:1845
+msgid "None"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:85
+msgid "SSL"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:86
+msgid "TLS"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:97
+msgid "SMTP Outgoing Host"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:112
+msgid "SMTP Outgoing Port"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:123
+msgid ""
+"Port value depends on the Connection Security type you set above None - port "
+"25, SSL - port 465, TLS - port 587. these values maybe different between "
+"email providers. "
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:131
+msgid "SMTP Username"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:147
+msgid "SMTP Password"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:165
+msgid "Admin Notifications"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:168
+msgid "New User Registration"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:185
+msgid "New Withdrawal Request"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:202
+msgid "New Created Invoice"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:219
+msgid "Paid Invoice"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:235
+msgid "Member Notifications"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:238
+msgid "Approved Withdrawal Request"
+msgstr ""
+
+#: src/Template/Admin/Options/email.ctp:255
+msgid "Completed Withdrawal Request"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:17
+msgid "General"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:19 src/Template/Layout/member.ctp:83
+msgid "Language"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:21
+msgid "Design"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:23
+#: src/Template/Admin/Withdraws/view.ctp:198
+msgid "Links"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:25
+msgid "Earnings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:27 src/Template/Layout/admin.ctp:242
+msgid "Users"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:29
+msgid "Integration"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:31
+msgid "Admin Ads"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:33
+msgid "Captcha"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:35
+msgid "Security"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:39
+msgid "Social Media"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:47
+msgid "Site Name"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:57
+msgid "This is your site name."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:62
+msgid "SEO Site Meta Title"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:72
+msgid ""
+"This is your site meta title. The recommended length is 50-60 characters."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:78
+msgid "Site Description"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:92
+msgid "Main Domain"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:105
+msgid ""
+"Main domain used for all pages expect the short link page. Make sure to "
+"remove the \"http\" or \"https\" and the trailing slash (/)!. Example: "
+"<b>domain.com</b>"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:112
+msgid "Default Short URL Domain"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:117
+msgid "Ex. domian.com"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:124
+msgid ""
+"Add the default domain used for the short links. If it is empty, the main "
+"domain will be used. Make sure to remove the \"http\" or \"https\" and the "
+"trailing slash (/)!. Example: <b>domain.com</b>"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:132
+#: src/Template/Admin/Plans/add.ctp:151 src/Template/Admin/Plans/edit.ctp:153
+msgid "Multi Domains"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:144
+msgid ""
+"Add the other domains(don't add the default short URL domain or the main "
+"domain) you want users to select between when short links. ex. <b>domain1."
+"com,domain2.com</b> These domains should be parked/aliased to the main "
+"domain. Separate by comma, no spaces. Make sure to remove the 'http' or "
+"'https' and the trailing slash (/)!"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:154
+msgid "Language Direction"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:160
+msgid "LTR"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:161
+msgid "RTL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:172
+msgid "Time Zone"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:188
+msgid "Cache Administration Area Statistics"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:194
+#: src/Template/Admin/Options/index.ctp:215
+#: src/Template/Admin/Options/index.ctp:236 src/Template/Admin/Plans/add.ctp:77
+#: src/Template/Admin/Plans/edit.ctp:79
+msgid "Enable"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:195
+#: src/Template/Admin/Options/index.ctp:216
+#: src/Template/Admin/Options/index.ctp:237
+msgid "Disable"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:202
+#: src/Template/Admin/Options/index.ctp:223
+#: src/Template/Admin/Options/index.ctp:244
+msgid ""
+"It's recommended to keep it disabled If you are starting new website. In the "
+"future, it is highly recommended to enable it."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:209
+msgid "Cache Member Area Statistics"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:230
+msgid "Cache Homepage Counters"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:251
+msgid "Fake Users Base"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:265
+msgid "Fake Links Base"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:279
+msgid "Fake Clicks base"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:303
+msgid "Default Language"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:318
+msgid "Site Languages"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:335
+msgid "Language Automatic Redirect"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:349
+msgid ""
+"Automatically redirect the website visitors to browse the website based on  "
+"their browser language if it is already available."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:378
+msgid "Select Frontend Theme"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:394
+msgid "Select Member Area Theme"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:408
+msgid "Select Member Area Default Theme Skin"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:437
+msgid "Select Admin Area Theme"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:451
+msgid "Select Admin Area Default Theme Skin"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:480
+msgid "Logo URL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:494
+msgid "Logo URL - Alternative"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:504
+msgid "Alternative logo used on the login page"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:509
+msgid "Favicon URL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:523
+msgid "Combine & Minify CSS & JS files"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:540
+msgid "Assets CDN URL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:557
+msgid "Advertisement Types"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:560
+msgid "Enable Interstitial Advertisement"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:577
+msgid "Enable Banner Advertisement"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:594
+msgid "Enable Popup Advertisement"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:611
+msgid "Enable No Advert"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:628
+msgid "Enable Random Ad Type"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:641
+msgid ""
+"You need to enable interstitial and banner to allow users to select random "
+"ad type."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:646
+msgid "Default Advertisement Types"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:649
+msgid "Anonymous Default Advert"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:656
+#: src/Template/Admin/Options/index.ctp:675
+msgid "Ad Banner"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:668
+msgid "Member Default Advert"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:686
+msgid "Metadata Fetching"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:687
+msgid ""
+"When shortening a URL, the URL page is downloaded and title, description & "
+"image are fetched from this page. If you have performance issues you can "
+"disable this behaviour from the below options."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:692
+msgid "Disable Metadata Fetching on Homepage"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:709
+msgid "Disable Metadata Fetching on Member Area"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:726
+msgid "Disable Metadata Fetching on API"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:739
+msgid ""
+"This is applicable for Quick Tool, Mass Shrinker, Full Page Script & "
+"Developers API."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:745
+msgid "Display Short link content(title, description and image)"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:758
+msgid "Useful if your ads are displayed based on page content."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:765
+msgid "Make Link Info Available for Public"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:782
+msgid "Display Home URL Shortening Box"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:799
+msgid "Redirect Anonymous Users to Register"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:816
+msgid "Make Link Info Available for Members"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:833
+msgid "Mass Shrinker Limit"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:847
+msgid "Links Banned Words"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:857
+msgid ""
+"Disallow links with banned words from being shortened. The System will check "
+"link title or description if they are contain the banned words. Separate by "
+"comma, no spaces."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:864
+msgid "Disallowed Domains"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:874
+msgid ""
+"Disallow links with certain domains from being shortened. Separate by comma, "
+"no spaces."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:880
+msgid "Reserved Aliases"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:890
+msgid ""
+"Disallow aliases from being used for short links. Separate by comma, no "
+"spaces."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:896
+msgid "Alias Min. Length"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:910
+msgid "Alias Max. Length"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:929
+msgid "Allow Members Creating Campaigns"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:946
+msgid "Enable Publisher Earnings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:963
+msgid "Unique Visitor Per"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:969
+msgid "Campaign"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:970
+msgid "All Campaigns"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:977
+msgid "Campaign: Publishers will earn more based on number of Campaigns."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:978
+msgid "All Campaigns: Publishers will earn less."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:984
+msgid "Paid Views Per Day"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1000
+msgid "Force Disable Adblock"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1017
+msgid "Counter Value"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1031
+msgid "Counter Start Counting After"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1037
+msgid "Page loaded"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1038
+msgid "Page fully loaded"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1048
+msgid "Store Only The Paid Clicks Statistics"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1065
+msgid "Enable Referrals"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1084
+msgid "Referral Percentage"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1094
+msgid "Enter the referral earning percentage. Ex. 20"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1099
+msgid "Referral Banners Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1109
+msgid ""
+"Here you can add your referral banners html code. You can use "
+"[referral_link] as a placeholder for member referral link."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1119
+msgid "Close Registration"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1136
+msgid "Enable Premium Membership"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1155
+msgid "Trial Membership Plan"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1172
+msgid "Trial Membership Period"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1178
+msgid "Month"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1179
+msgid "Year"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1189
+msgid "Signup Bonus"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1205
+msgid "Enable Account Activation by Email"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1222
+msgid "Reserved Usernames"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1232
+msgid "Separate by comma, no spaces."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1241
+msgid "Front Head Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1255
+msgid "Auth Head Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1269
+msgid "Member Head Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1283
+msgid "Admin Head Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1297
+msgid "Footer Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1311
+msgid "After Body Tag Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1330
+msgid "Member Area Ad"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1344
+msgid "Captcha Ad"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1357
+msgid "Interstitial Ads"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1359
+msgid "This ad will be displayed between logo and counter."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1362
+msgid "Interstitial Page Ad Code"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1375
+msgid "Banner Ads"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1377
+msgid ""
+"Let say you have a campaign for 728×90 space then the other places 468×60 "
+"and 336×280 will be populated with the below banner ads."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1381
+msgid "Banner 728x90"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1395
+msgid "Banner 468x60"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1409
+msgid "Banner 336x280"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1428
+msgid "Enable Captcha"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1445
+msgid "Captcha Type"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1451
+msgid "reCAPTCHA"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1452
+msgid "Invisible reCAPTCHA"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1453
+msgid "Solve Media"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1454
+msgid "Coinhive"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1466
+msgid "reCAPTCHA Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1469
+msgid "reCAPTCHA Site key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1483
+msgid "reCAPTCHA Secret key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1500
+msgid "Invisible reCAPTCHA Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1503
+msgid "Invisible reCAPTCHA Site key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1517
+msgid "Invisible reCAPTCHA Secret key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1534
+msgid "Solve Media Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1537
+msgid "Solve Media Challenge Key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1551
+msgid "Solve Media Verification Key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1565
+msgid "Solve Media Authentication Hash Key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1582
+msgid "Coinhive Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1585
+msgid "Coinhive Site Key (public)"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1599
+msgid "Coinhive Secret Key (private)"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1613
+msgid "Coinhive Hashes"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1632
+msgid "Enable on Home Anonymous Short Link Box"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1649
+msgid "Enable on Short Links Page"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1666
+msgid "Enable on Signin Form"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1683
+msgid "Enable on Signup Form"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1700
+msgid "Enable on Forgot Password Form"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1717
+msgid "Enable on Contact Form"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1739
+msgid "Enable SSL Integration"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1753
+msgid ""
+"You should install SSL into your website before enable SSL integration. For "
+"more information about SSL, please ask your hosting company."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1760
+msgid "Enable https for Short links"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1774
+msgid "You should install SSL into your website before enable this option."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1780
+msgid "Google Safe Browsing API Key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1792
+#: src/Template/Admin/Options/index.ctp:1811
+msgid "You can get your key from <a href=\"{0}\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1800
+msgid "PhishTank API key"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1822
+msgid "Enable Blog"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1839
+msgid "Display Blog Post into Shortlink Page"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1846
+msgid "Latest Post"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1847
+msgid "Random Post"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1857
+msgid "Enable Comments"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1874
+msgid "Disqus Shortname"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1885
+msgid ""
+"To display comment box, you must create an account at Disqus website by "
+"signing up from <a href='https://disqus.com/profile/signup/' "
+"target='_blank'>here</a> then add your website their from <a href='https://"
+"disqus.com/admin/create/' target='_blank'>here</a> and get your shortname."
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1899
+msgid "Facebook Page URL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1913
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: src/Template/Admin/Options/index.ctp:1927
+msgid "Google Plus URL"
+msgstr ""
+
+#: src/Template/Admin/Options/interstitial.ctp:2
+#: src/Template/Admin/Options/interstitial.ctp:4
+msgid "Interstitial Advertisement Price"
+msgstr ""
+
+#: src/Template/Admin/Options/interstitial.ctp:26
+#: src/Template/Admin/Options/popup.ctp:26
+msgid "Set Prices For {0}"
+msgstr ""
+
+#: src/Template/Admin/Options/interstitial.ctp:80
+#: src/Template/Admin/Options/popup.ctp:80
+msgid "Set Price For"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:2
+#: src/Template/Admin/Options/payment.ctp:4
+msgid "Payment Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:15
+msgid "Currency Code"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:29
+msgid "Currency Symbol"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:43
+msgid "Currency Position"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:49
+msgid "Before Price"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:50
+msgid "After Price"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:60
+msgid "Price Number of Decimals"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:76
+msgid "Wallet Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:78
+msgid ""
+"Your users will be able to withdraw money to their wallet then use it to pay "
+"campaigns."
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:81
+msgid "Enable Wallet"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:97
+#: src/Template/Admin/Options/withdrawal.ctp:48
+msgid "PayPal Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:99
+#: src/Template/Admin/Options/payment.ctp:153
+#: src/Template/Admin/Options/payment.ctp:204
+#: src/Template/Admin/Options/payment.ctp:248
+#: src/Template/Admin/Options/payment.ctp:315
+#: src/Template/Admin/Options/payment.ctp:400
+#: src/Template/Admin/Options/payment.ctp:453
+#: src/Template/Admin/Options/payment.ctp:490
+#: src/Template/Admin/Options/payment.ctp:542
+msgid ""
+"For setup instructions click <a href=\"{0}\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:103
+#: src/Template/Admin/Options/withdrawal.ctp:51
+msgid "Enable PayPal"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:120
+msgid "Payment Business Email"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:135
+msgid "Enable PayPal Sandbox"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:151
+msgid "Stripe Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:156
+msgid "Enable Stripe"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:173
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:188
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:202
+#: src/Template/Admin/Options/withdrawal.ctp:81
+msgid "Payza Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:208
+#: src/Template/Admin/Options/withdrawal.ctp:84
+msgid "Enable Payza"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:225
+msgid "Payza Merchant Email"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:240
+msgid "Enable Payza Test Mode"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:242
+msgid "You can enable Payza sandbox from your Payza account settings."
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:246
+#: src/Template/Admin/Options/withdrawal.ctp:114
+msgid "Skrill Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:252
+#: src/Template/Admin/Options/withdrawal.ctp:117
+msgid "Enable Skrill"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:269
+msgid "Skrill Merchant Email"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:284
+msgid "Skrill Secret Word"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:298
+msgid "Bitcoin Processor"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:303
+msgid "Coinbase"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:304
+msgid "CoinPayments"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:313
+msgid "CoinPayments Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:319
+msgid "Enable CoinPayments"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:336
+msgid "CoinPayments Public Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:351
+msgid "CoinPayments Private Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:366
+msgid "CoinPayments Merchant Id"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:381
+msgid "CoinPayments IPN Secret"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:398
+msgid "Coinbase Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:404
+msgid "Enable Coinbase"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:421
+msgid "Coinbase API Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:436
+msgid "Coinbase API Secret"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:451
+#: src/Template/Admin/Options/withdrawal.ctp:181
+msgid "Webmoney Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:457
+#: src/Template/Admin/Options/withdrawal.ctp:184
+msgid "Enable Webmoney"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:474
+msgid "Webmoney Merchant Purse"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:488
+#: src/Template/Admin/Options/withdrawal.ctp:214
+msgid "Perfect Money Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:494
+#: src/Template/Admin/Options/withdrawal.ctp:217
+msgid "Enable Perfect Money"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:511
+msgid "Perfect Money Payee Account"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:526
+msgid "Perfect Money Alternate Passphrase"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:540
+#: src/Template/Admin/Options/withdrawal.ctp:247
+msgid "Payeer Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:546
+#: src/Template/Admin/Options/withdrawal.ctp:250
+msgid "Enable Payeer"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:563
+msgid "Payeer Merchant Id"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:578
+msgid "Payeer Secret Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:593
+msgid "Payeer Encryption Key"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:607
+#: src/Template/Admin/Options/withdrawal.ctp:280
+msgid "Bank Transfer Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:610
+#: src/Template/Admin/Options/withdrawal.ctp:283
+msgid "Enable Bank Transfer"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:627
+msgid "Bank Transfer Instructions"
+msgstr ""
+
+#: src/Template/Admin/Options/payment.ctp:637
+msgid ""
+"You can use these placeholders [invoice_id], [invoice_amount], "
+"[invoice_description]"
+msgstr ""
+
+#: src/Template/Admin/Options/popup.ctp:2
+#: src/Template/Admin/Options/popup.ctp:4
+msgid "Popup Advertisement Price"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:2
+#: src/Template/Admin/Options/social_login.ctp:4
+msgid "Social Login Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:14
+msgid "Facebook Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:16
+#: src/Template/Admin/Options/social_login.ctp:66
+#: src/Template/Admin/Options/social_login.ctp:116
+msgid ""
+"You can find the setup instructions <a href=\"{0}\" target=\"_blank\">here</"
+"a>."
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:20
+msgid "Enable Facebook"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:37
+msgid "App Id"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:51
+msgid "App Secret"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:64
+msgid "Twitter Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:70
+msgid "Enable Twitter"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:87
+msgid "Consumer Key (API Key)"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:101
+msgid "Consumer Secret (API Secret)"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:114
+msgid "Google Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:120
+msgid "Enable Google"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:137
+msgid "Client ID"
+msgstr ""
+
+#: src/Template/Admin/Options/social_login.ctp:151
+msgid "Client Secret"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:2
+#: src/Template/Admin/Options/withdrawal.ctp:4
+#: src/Template/Layout/admin.ctp:365
+msgid "Withdrawal Methods"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:16
+#: src/Template/Member/Users/profile.ctp:122
+msgid "Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:27
+msgid "This amount will be displayed only on home page."
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:32
+msgid "Money Wallet Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:35
+msgid "Wallet Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:68
+msgid "PayPal Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:101
+msgid "Payza Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:134
+msgid "Skrill Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:147
+msgid "Bitcoin Settings"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:150
+msgid "Enable Bitcoin"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:167
+msgid "Bitcoin Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:201
+msgid "Webmoney Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:234
+msgid "Perfect Money Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:267
+msgid "Payeer Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:300
+msgid "Bank Transfer Minimum Withdrawal Amount"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:315
+msgid "Custom Withdrawal Methods"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:326
+msgid "You can add custom withdrawal methods like the following example:"
+msgstr ""
+
+#: src/Template/Admin/Options/withdrawal.ctp:328
+msgid ""
+"</b> Please note: Each method separated by \",\" and for each method parts "
+"separated by \"|\""
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:2 src/Template/Admin/Pages/add.ctp:4
+#: src/Template/Admin/Pages/edit.ctp:2 src/Template/Admin/Pages/edit.ctp:4
+msgid "Add Page"
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:22 src/Template/Admin/Pages/edit.ctp:24
+#: src/Template/Admin/Pages/index.ctp:14 src/Template/Admin/Posts/add.ctp:22
+#: src/Template/Admin/Posts/edit.ctp:24 src/Template/Admin/Posts/index.ctp:14
+msgid "Slug"
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:49 src/Template/Admin/Pages/edit.ctp:51
+#: src/Template/Admin/Posts/add.ctp:57 src/Template/Admin/Posts/edit.ctp:59
+msgid "Meta Title"
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:54 src/Template/Admin/Pages/edit.ctp:56
+#: src/Template/Admin/Posts/add.ctp:62 src/Template/Admin/Posts/edit.ctp:64
+msgid "The recommended length is 50-60 characters."
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:58 src/Template/Admin/Pages/edit.ctp:60
+#: src/Template/Admin/Posts/add.ctp:66 src/Template/Admin/Posts/edit.ctp:68
+msgid "Meta Description"
+msgstr ""
+
+#: src/Template/Admin/Pages/add.ctp:63 src/Template/Admin/Pages/edit.ctp:65
+#: src/Template/Admin/Posts/add.ctp:71 src/Template/Admin/Posts/edit.ctp:73
+msgid "The recommended length is 160 characters."
+msgstr ""
+
+#: src/Template/Admin/Pages/index.ctp:2 src/Template/Admin/Pages/index.ctp:4
+msgid "Manage Pages"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:2 src/Template/Admin/Plans/add.ctp:4
+msgid "Add Plan"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:87 src/Template/Admin/Plans/edit.ctp:89
+msgid ""
+"Only admins can see hidden plans and assign it to users but users will not "
+"see it at the \n"
+"            member area."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:103 src/Template/Admin/Plans/edit.ctp:105
+msgid "Monthly Price"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:112 src/Template/Admin/Plans/edit.ctp:114
+msgid "Yearly Price"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:131 src/Template/Admin/Plans/edit.ctp:133
+msgid "Edit Link"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:132 src/Template/Admin/Plans/edit.ctp:134
+msgid ""
+"Enabling this feature will allow short link creator to edit his links but "
+"without editing the long URL."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:140 src/Template/Admin/Plans/edit.ctp:142
+msgid "Edit Long URL"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:142 src/Template/Admin/Plans/edit.ctp:144
+msgid ""
+"Enabling this feature will allow short link creator to edit the long URL for "
+"his links. You must enable 'Edit Link' feature to use this feature."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:153 src/Template/Admin/Plans/edit.ctp:155
+msgid ""
+"Enabling this feature will allow short link creator to select a different "
+"domain for his links."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:162 src/Template/Admin/Plans/edit.ctp:164
+msgid "Remove Ads from short link page and member area"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:163 src/Template/Admin/Plans/edit.ctp:165
+msgid ""
+"Enabling this feature will allow the logged in visitors who are on this plan "
+"not to show the ads on short link page and member area."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:171 src/Template/Admin/Plans/edit.ctp:173
+msgid "Remove Captcha"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:172 src/Template/Admin/Plans/edit.ctp:174
+msgid ""
+"Enabling this feature will allow the logged in visitors to escape the "
+"captcha step and see the short link page directly."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:180 src/Template/Admin/Plans/add.ctp:181
+#: src/Template/Admin/Plans/edit.ctp:182 src/Template/Admin/Plans/edit.ctp:183
+msgid "Onetime Captcha"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:189 src/Template/Admin/Plans/edit.ctp:191
+msgid ""
+"Enabling this feature will allow the logged in visitors to go to directly "
+"the long URL without seeing the short link page."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:197 src/Template/Admin/Plans/edit.ctp:199
+msgid "Custom Alias"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:199 src/Template/Admin/Plans/edit.ctp:201
+msgid ""
+"Enabling this feature will allow short link creator to add a custom alias "
+"when shorten a url."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:208 src/Template/Admin/Plans/edit.ctp:210
+#: src/Template/Admin/Users/dashboard.ctp:79
+#: src/Template/Admin/Users/dashboard.ctp:117
+#: src/Template/Admin/Users/edit.ctp:102
+#: src/Template/Admin/Withdraws/export.ctp:35
+#: src/Template/Admin/Withdraws/index.ctp:33
+#: src/Template/Admin/Withdraws/index.ctp:117
+#: src/Template/Admin/Withdraws/view.ctp:59
+#: src/Template/Email/html/admin_withdrawal.ctp:12
+#: src/Template/Email/text/admin_withdrawal.ctp:13
+#: src/Template/Member/Users/dashboard.ctp:80
+#: src/Template/Member/Users/dashboard.ctp:147
+#: src/Template/Member/Withdraws/index.ctp:87
+msgid "Referral Earnings"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:210 src/Template/Admin/Plans/edit.ctp:212
+msgid ""
+"Enabling this feature will allow the publisher to earn from his referrals."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:218 src/Template/Admin/Plans/edit.ctp:220
+#: src/Template/Statistics/view_info.ctp:2
+#: src/Template/Statistics/view_info.ctp:4
+#: src/Template/Statistics/view_info.ctp:8
+msgid "Link Statistics"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:220 src/Template/Admin/Plans/edit.ctp:222
+msgid ""
+"Enabling this feature will allow short link creator to view short link "
+"Statistics."
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:227 src/Template/Admin/Plans/edit.ctp:229
+msgid "Quick Link Tool"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:232 src/Template/Admin/Plans/edit.ctp:234
+msgid "Mass Shrinker Tool"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:237 src/Template/Admin/Plans/edit.ctp:239
+msgid "Full Page Script Tool"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:242 src/Template/Admin/Plans/edit.ctp:244
+msgid "Bookmarklet Tool"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:247 src/Template/Admin/Plans/edit.ctp:249
+msgid "Developers API Tool"
+msgstr ""
+
+#: src/Template/Admin/Plans/add.ctp:259 src/Template/Admin/Plans/edit.ctp:261
+msgid ""
+"This feature requires the visitor to the short link to be logged in then "
+"this feature will take effect."
+msgstr ""
+
+#: src/Template/Admin/Plans/delete.ctp:2 src/Template/Admin/Plans/delete.ctp:4
+msgid "Delete Plan"
+msgstr ""
+
+#: src/Template/Admin/Plans/delete.ctp:16
+msgid "Replace users within this plan with"
+msgstr ""
+
+#: src/Template/Admin/Plans/delete.ctp:18
+msgid "Select Plan"
+msgstr ""
+
+#: src/Template/Admin/Plans/edit.ctp:2 src/Template/Admin/Plans/edit.ctp:4
+msgid "Edit Plan"
+msgstr ""
+
+#: src/Template/Admin/Plans/index.ctp:2 src/Template/Admin/Plans/index.ctp:4
+msgid "Manage Plans"
+msgstr ""
+
+#: src/Template/Admin/Plans/index.ctp:15 src/Template/Admin/Users/view.ctp:121
+msgid "Modified"
+msgstr ""
+
+#: src/Template/Admin/Posts/add.ctp:2 src/Template/Admin/Posts/add.ctp:4
+#: src/Template/Admin/Posts/edit.ctp:2 src/Template/Admin/Posts/edit.ctp:4
+#: src/Template/Layout/admin.ctp:293
+msgid "Add Post"
+msgstr ""
+
+#: src/Template/Admin/Posts/add.ctp:41 src/Template/Admin/Posts/edit.ctp:43
+msgid "Short Description"
+msgstr ""
+
+#: src/Template/Admin/Posts/index.ctp:2 src/Template/Admin/Posts/index.ctp:4
+msgid "Manage Posts"
+msgstr ""
+
+#: src/Template/Admin/Reports/campaigns.ctp:2
+#: src/Template/Admin/Reports/campaigns.ctp:4
+msgid "Campaigns Report"
+msgstr ""
+
+#: src/Template/Admin/Reports/campaigns.ctp:26
+msgid "Select User"
+msgstr ""
+
+#: src/Template/Admin/Reports/campaigns.ctp:37
+msgid "Select Campaign"
+msgstr ""
+
+#: src/Template/Admin/Testimonials/add.ctp:2
+#: src/Template/Admin/Testimonials/add.ctp:4
+#: src/Template/Admin/Testimonials/edit.ctp:2
+#: src/Template/Admin/Testimonials/edit.ctp:4
+msgid "Add Testimonial"
+msgstr ""
+
+#: src/Template/Admin/Testimonials/add.ctp:23
+#: src/Template/Admin/Testimonials/edit.ctp:25
+msgid "Position"
+msgstr ""
+
+#: src/Template/Admin/Testimonials/add.ctp:32
+#: src/Template/Admin/Testimonials/edit.ctp:34
+msgid "Image"
+msgstr ""
+
+#: src/Template/Admin/Testimonials/index.ctp:2
+#: src/Template/Admin/Testimonials/index.ctp:4
+msgid "Manage Testimonials"
+msgstr ""
+
+#: src/Template/Admin/Upgrade/index.ctp:2
+#: src/Template/Admin/Upgrade/index.ctp:4
+msgid "Upgrade"
+msgstr ""
+
+#: src/Template/Admin/Upgrade/index.ctp:12
+msgid "Upgrading ..."
+msgstr ""
+
+#: src/Template/Admin/Upgrade/index.ctp:14
+msgid "Run Upgrade Process"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:2 src/Template/Admin/Users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:14 src/Template/Admin/Users/edit.ctp:16
+msgid "Role"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:16 src/Template/Admin/Users/edit.ctp:18
+msgid "Member"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:17 src/Template/Admin/Users/edit.ctp:19
+msgid "Admin"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:28 src/Template/Admin/Users/edit.ctp:30
+#: src/Template/Admin/Users/export.ctp:10 src/Template/Admin/Users/index.ctp:16
+#: src/Template/Admin/Users/view.ctp:10
+#: src/Template/Admin/Withdraws/edit.ctp:26
+#: src/Template/Admin/Withdraws/export.ctp:10
+#: src/Template/Admin/Withdraws/index.ctp:10
+#: src/Template/Admin/Withdraws/view.ctp:10
+#: src/Template/Member/Withdraws/index.ctp:10
+msgid "Pending"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:44 src/Template/Admin/Users/edit.ctp:76
+#: src/Template/Admin/Users/export.ctp:30 src/Template/Admin/Users/index.ctp:75
+#: src/Template/Admin/Users/index.ctp:136 src/Template/Admin/Users/view.ctp:97
+#: src/Template/Auth/Users/forgot_password.ctp:15
+#: src/Template/Auth/Users/signup.ctp:21
+#: src/Template/Email/html/admin_register.ctp:7
+#: src/Template/Email/text/admin_register.ctp:9
+#: src/Template/Install/adminuser.ctp:19 src/Template/Layout/admin.ctp:353
+#: src/Template/Member/Forms/support.ctp:33
+msgid "Email"
+msgstr ""
+
+#: src/Template/Admin/Users/add.ctp:53 src/Template/Auth/Users/signin.ctp:21
+#: src/Template/Auth/Users/signup.ctp:29 src/Template/Install/adminuser.ctp:39
+msgid "Password"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:51
+msgid "Owner Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:93
+#: src/Template/Member/Users/dashboard.ctp:51
+msgid "Total Views"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:105 src/Template/Layout/admin.ctp:149
+#: src/Template/Layout/member.ctp:171
+#: src/Template/Member/Users/dashboard.ctp:135
+msgid "Statistics"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:113
+#: src/Template/Admin/Users/referrals.ctp:18
+#: src/Template/Admin/Users/view.ctp:227
+#: src/Template/Admin/Withdraws/edit.ctp:49
+#: src/Template/Admin/Withdraws/index.ctp:114
+#: src/Template/Member/Users/dashboard.ctp:143
+#: src/Template/Member/Users/referrals.ctp:36
+#: src/Template/Member/Withdraws/index.ctp:83
+msgid "Date"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:114
+#: src/Template/Admin/Users/dashboard.ctp:203
+#: src/Template/Member/Users/dashboard.ctp:144
+#: src/Template/Member/Users/dashboard.ctp:233
+msgid "Views"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:115
+#: src/Template/Admin/Withdraws/view.ctp:206
+#: src/Template/Member/Users/dashboard.ctp:145
+msgid "Link Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/dashboard.ctp:116
+#: src/Template/Member/Users/dashboard.ctp:146
+msgid "Daily CPM"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:2 src/Template/Admin/Users/edit.ctp:4
+msgid "Edit User #{0}"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:39
+msgid "Disable User Future Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:52
+msgid "Plan"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:54
+msgid "Choose Plan"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:61 src/Template/Admin/Users/view.ctp:89
+msgid "Plan Expiration Date"
+msgstr ""
+
+#: src/Template/Admin/Users/edit.ctp:84 src/Template/Layout/member.ctp:163
+msgid "Money Wallet"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:2 src/Template/Admin/Users/export.ctp:4
+msgid "Users Export"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:22
+#: src/Template/Admin/Withdraws/export.ctp:26
+msgid "Select fields to export"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:31 src/Template/Admin/Users/view.ctp:174
+#: src/Template/Member/Users/profile.ctp:20
+msgid "First Name"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:32 src/Template/Admin/Users/view.ctp:178
+#: src/Template/Member/Users/profile.ctp:28
+msgid "Last Name"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:33 src/Template/Admin/Users/index.ctp:93
+#: src/Template/Admin/Users/index.ctp:137
+msgid "Login IP"
+msgstr ""
+
+#: src/Template/Admin/Users/export.ctp:34
+#: src/Template/Admin/Users/index.ctp:102
+#: src/Template/Admin/Users/index.ctp:138
+msgid "Register IP"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:2 src/Template/Admin/Users/index.ctp:4
+msgid "Manage Users"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:56 src/Template/Admin/Users/index.ctp:135
+msgid "Disable Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:111
+msgid "First name, last name, address"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:126
+msgid "All Users"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:163
+#: src/Template/Admin/Users/message.ctp:32
+#: src/Template/Admin/Users/message.ctp:38
+#: src/Template/Email/html/contact.ctp:2 src/Template/Email/text/contact.ctp:4
+#: src/Template/Member/Forms/support.ctp:42
+msgid "Message"
+msgstr ""
+
+#: src/Template/Admin/Users/index.ctp:167
+msgid "Resend Activation Email"
+msgstr ""
+
+#: src/Template/Admin/Users/message.ctp:2
+#: src/Template/Admin/Users/message.ctp:4
+msgid "Message User"
+msgstr ""
+
+#: src/Template/Admin/Users/message.ctp:15
+msgid "User Email"
+msgstr ""
+
+#: src/Template/Admin/Users/message.ctp:24
+#: src/Template/Member/Forms/support.ctp:24
+msgid "Subject"
+msgstr ""
+
+#: src/Template/Admin/Users/referrals.ctp:2
+#: src/Template/Admin/Users/referrals.ctp:4
+#: src/Template/Admin/Users/referrals.ctp:10
+msgid "All Referrals"
+msgstr ""
+
+#: src/Template/Admin/Users/referrals.ctp:17
+msgid "Referred By"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:2 src/Template/Admin/Users/view.ctp:4
+msgid "View User #{0}"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:22
+#: src/Template/Member/Withdraws/index.ctp:24
+msgid "Available Balance"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:40
+#: src/Template/Admin/Withdraws/index.ctp:42
+#: src/Template/Member/Withdraws/index.ctp:33
+msgid "Pending Withdrawn"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:49
+#: src/Template/Admin/Withdraws/index.ctp:51
+#: src/Template/Member/Withdraws/index.ctp:42
+msgid "Total Withdraw"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:65
+msgid "Account Info."
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:85
+msgid "User Plan"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:93
+msgid "role"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:101
+msgid "Temp Email"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:105
+msgid "Api Token"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:109
+msgid "Current Money Wallet"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:113
+msgid "Current Publisher Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:117
+msgid "Current Referral Earnings"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:137
+msgid "Withdrawal Info."
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:145
+#: src/Template/Admin/Withdraws/export.ctp:37
+#: src/Template/Admin/Withdraws/export.ctp:77
+#: src/Template/Admin/Withdraws/export.ctp:83
+#: src/Template/Admin/Withdraws/index.ctp:93
+#: src/Template/Admin/Withdraws/index.ctp:119
+#: src/Template/Admin/Withdraws/view.ctp:67
+#: src/Template/Member/Users/profile.ctp:111
+#: src/Template/Member/Users/profile.ctp:121
+#: src/Template/Member/Withdraws/index.ctp:90
+msgid "Withdrawal Method"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:154
+#: src/Template/Admin/Withdraws/export.ctp:38
+#: src/Template/Admin/Withdraws/index.ctp:120
+#: src/Template/Admin/Withdraws/view.ctp:72
+#: src/Template/Member/Users/profile.ctp:136
+#: src/Template/Member/Withdraws/index.ctp:91
+msgid "Withdrawal Account"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:166
+msgid "Billing Info."
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:182
+#: src/Template/Member/Users/profile.ctp:39
+msgid "Address 1"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:186
+#: src/Template/Member/Users/profile.ctp:47
+msgid "Address 2"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:190
+#: src/Template/Member/Users/profile.ctp:58
+msgid "City"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:194
+#: src/Template/Member/Users/profile.ctp:66
+msgid "State"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:198
+#: src/Template/Member/Users/profile.ctp:77
+msgid "ZIP"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:206
+#: src/Template/Member/Users/profile.ctp:98
+msgid "Phone Number"
+msgstr ""
+
+#: src/Template/Admin/Users/view.ctp:218 src/Template/Layout/admin.ctp:256
+#: src/Template/Layout/member.ctp:223 src/Template/Member/Users/referrals.ctp:2
+#: src/Template/Member/Users/referrals.ctp:4
+msgid "Referrals"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/edit.ctp:2
+#: src/Template/Admin/Withdraws/edit.ctp:4
+#: src/Template/Admin/Withdraws/view.ctp:2
+#: src/Template/Admin/Withdraws/view.ctp:4
+msgid "Withdraw #{0}"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/edit.ctp:27
+#: src/Template/Admin/Withdraws/export.ctp:9
+#: src/Template/Admin/Withdraws/index.ctp:9
+#: src/Template/Admin/Withdraws/view.ctp:9
+#: src/Template/Member/Withdraws/index.ctp:9
+msgid "Approved"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/edit.ctp:28
+#: src/Template/Admin/Withdraws/export.ctp:11
+#: src/Template/Admin/Withdraws/index.ctp:11
+#: src/Template/Admin/Withdraws/index.ctp:163
+#: src/Template/Admin/Withdraws/view.ctp:11
+#: src/Template/Admin/Withdraws/view.ctp:39
+#: src/Template/Member/Withdraws/index.ctp:11
+msgid "Complete"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/edit.ctp:29
+#: src/Template/Admin/Withdraws/export.ctp:12
+#: src/Template/Admin/Withdraws/index.ctp:12
+#: src/Template/Admin/Withdraws/view.ctp:12
+#: src/Template/Member/Withdraws/index.ctp:12
+msgid "Cancelled"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/edit.ctp:30
+#: src/Template/Admin/Withdraws/export.ctp:13
+#: src/Template/Admin/Withdraws/index.ctp:13
+#: src/Template/Admin/Withdraws/view.ctp:13
+#: src/Template/Member/Withdraws/index.ctp:13
+msgid "Returned"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/export.ctp:2
+#: src/Template/Admin/Withdraws/export.ctp:4
+msgid "Withdraws Export"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/export.ctp:46
+msgid "Conditions"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:2
+#: src/Template/Admin/Withdraws/index.ctp:4
+msgid "Manage Withdraws"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:24
+msgid "Publishers Available Balance"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:118
+#: src/Template/Email/html/admin_withdrawal.ctp:13
+#: src/Template/Email/text/admin_withdrawal.ctp:15
+#: src/Template/Member/Withdraws/index.ctp:89
+msgid "Total Amount"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:121
+msgid "Action"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:155
+#: src/Template/Admin/Withdraws/view.ctp:31
+msgid "Approve"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:171
+#: src/Template/Admin/Withdraws/view.ctp:23
+#: src/Template/Tools/bookmarklet.ctp:123
+msgid "Cancel"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:179
+msgid "Return"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:191
+#: src/Template/Member/Withdraws/index.ctp:115
+msgid "Pending: The payment is being checked by our team."
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:192
+#: src/Template/Member/Withdraws/index.ctp:116
+msgid "Approved: The payment has been approved and is waiting to be sent."
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:193
+msgid "Complete: The payment has been successfully sent to your account."
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:194
+#: src/Template/Member/Withdraws/index.ctp:118
+msgid "Cancelled: The payment has been cancelled."
+msgstr ""
+
+#: src/Template/Admin/Withdraws/index.ctp:195
+msgid "Returned: The payment has been returned to the user account."
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:86
+msgid "Created Date"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:100
+msgid "Reasons"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:106
+msgid "Reason"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:148
+msgid "IPs"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:154
+msgid "IP"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:173
+#: src/Template/Statistics/view_info.ctp:84
+msgid "Referrers"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:179
+#: src/Template/Cell/Link/shorten_member.ctp:71
+#: src/Template/Statistics/view_info.ctp:92
+#: src/Template/Tools/bookmarklet.ctp:111
+msgid "Domain"
+msgstr ""
+
+#: src/Template/Admin/Withdraws/view.ctp:204
+msgid "Link"
+msgstr ""
+
+#: src/Template/Auth/Users/forgot_password.ctp:2
+msgid "Forgot Password"
+msgstr ""
+
+#: src/Template/Auth/Users/forgot_password.ctp:3
+#: src/Template/Auth/Users/forgot_password.ctp:10
+msgid "Enter your e-mail address below to reset your password."
+msgstr ""
+
+#: src/Template/Auth/Users/forgot_password.ctp:42
+#: src/Template/Member/Users/change_password.ctp:26
+msgid "New Password"
+msgstr ""
+
+#: src/Template/Auth/Users/forgot_password.ctp:50
+#: src/Template/Auth/Users/forgot_password.ctp:52
+#: src/Template/Member/Users/change_password.ctp:35
+msgid "Re-enter New Password"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:2 src/Template/Auth/Users/signin.ctp:32
+msgid "Sign In"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:3 src/Template/Auth/Users/signin.ctp:6
+msgid "Sign in to start your session"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:13
+msgid "Username or email address"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:40 src/Template/Auth/Users/signup.ctp:67
+msgid "OR"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:48
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:58
+msgid "Sign in with Twitter"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:68
+msgid "Sign in with Google"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:78
+msgid "I forgot my password"
+msgstr ""
+
+#: src/Template/Auth/Users/signin.ctp:82 src/Template/Auth/Users/signup.ctp:3
+#: src/Template/Auth/Users/signup.ctp:6
+msgid "Register a new membership"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:2
+msgid "Create an Account"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:38
+msgid "Re-enter Password"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:53
+msgid "Terms of Service"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:51
+msgid "By signing up, you agree to the {0} and {1}."
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:59
+msgid "Register"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:75
+msgid "Sign up with Facebook"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:85
+msgid "Sign up with Twitter"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:95
+msgid "Sign up with Google"
+msgstr ""
+
+#: src/Template/Auth/Users/signup.ctp:102
+msgid "I already have a membership"
+msgstr ""
+
+#: src/Template/Cell/Link/shorten_member.ctp:85
+#: src/Template/Member/Tools/mass_shrinker.ctp:73
+#: src/Template/Tools/bookmarklet.ctp:121
+msgid "Shorten"
+msgstr ""
+
+#: src/Template/Cell/Link/shorten_member.ctp:86
+msgid "Advanced Options"
+msgstr ""
+
+#: src/Template/Element/js_vars.ctp:7
+msgid "Copied!"
+msgstr ""
+
+#: src/Template/Element/js_vars.ctp:25
+msgid "Get Link"
+msgstr ""
+
+#: src/Template/Element/js_vars.ctp:26
+msgid "Getting link..."
+msgstr ""
+
+#: src/Template/Element/js_vars.ctp:27
+msgid "Skip Ad"
+msgstr ""
+
+#: src/Template/Element/js_vars.ctp:29
+msgid "Please disable Adblock to proceed to the destination page."
+msgstr ""
+
+#: src/Template/Email/html/admin_invoice.ctp:1
+#: src/Template/Email/html/admin_paid_invoice.ctp:1
+#: src/Template/Email/html/admin_register.ctp:1
+#: src/Template/Email/html/admin_withdrawal.ctp:5
+#: src/Template/Email/html/approve_withdraw.ctp:10
+#: src/Template/Email/html/change_email.ctp:1
+#: src/Template/Email/html/complete_withdraw.ctp:10
+#: src/Template/Email/html/register.ctp:1
+#: src/Template/Email/html/reset_password.ctp:1
+#: src/Template/Email/text/admin_invoice.ctp:1
+#: src/Template/Email/text/admin_paid_invoice.ctp:1
+#: src/Template/Email/text/admin_register.ctp:1
+#: src/Template/Email/text/admin_withdrawal.ctp:1
+#: src/Template/Email/text/approve_withdraw.ctp:10
+#: src/Template/Email/text/change_email.ctp:1
+#: src/Template/Email/text/complete_withdraw.ctp:10
+#: src/Template/Email/text/register.ctp:1
+#: src/Template/Email/text/reset_password.ctp:1
+msgid "Hello"
+msgstr ""
+
+#: src/Template/Email/html/admin_invoice.ctp:3
+#: src/Template/Email/text/admin_invoice.ctp:3
+msgid "A new invoice has been created with the following details:"
+msgstr ""
+
+#: src/Template/Email/html/admin_invoice.ctp:6
+#: src/Template/Email/html/admin_paid_invoice.ctp:6
+#: src/Template/Email/text/admin_invoice.ctp:7
+#: src/Template/Email/text/admin_paid_invoice.ctp:7
+msgid "Invoice Id"
+msgstr ""
+
+#: src/Template/Email/html/admin_invoice.ctp:16
+#: src/Template/Email/html/admin_paid_invoice.ctp:16
+#: src/Template/Email/html/admin_register.ctp:10
+#: src/Template/Email/html/admin_withdrawal.ctp:19
+#: src/Template/Email/html/approve_withdraw.ctp:19
+#: src/Template/Email/html/change_email.ctp:12
+#: src/Template/Email/html/complete_withdraw.ctp:17
+#: src/Template/Email/html/register.ctp:15
+#: src/Template/Email/html/reset_password.ctp:18
+#: src/Template/Email/text/admin_invoice.ctp:17
+#: src/Template/Email/text/admin_paid_invoice.ctp:17
+#: src/Template/Email/text/admin_register.ctp:12
+#: src/Template/Email/text/admin_withdrawal.ctp:23
+#: src/Template/Email/text/approve_withdraw.ctp:21
+#: src/Template/Email/text/change_email.ctp:9
+#: src/Template/Email/text/complete_withdraw.ctp:19
+#: src/Template/Email/text/register.ctp:13
+#: src/Template/Email/text/reset_password.ctp:19
+msgid "Thanks,"
+msgstr ""
+
+#: src/Template/Email/html/admin_paid_invoice.ctp:3
+#: src/Template/Email/text/admin_paid_invoice.ctp:3
+msgid "Invoice {0} has been paid with the following details:"
+msgstr ""
+
+#: src/Template/Email/html/admin_register.ctp:3
+#: src/Template/Email/text/admin_register.ctp:3
+msgid "You have a new user registration"
+msgstr ""
+
+#: src/Template/Email/html/admin_withdrawal.ctp:7
+#: src/Template/Email/text/admin_withdrawal.ctp:4
+msgid "A new withdraw has been requested with the following details:"
+msgstr ""
+
+#: src/Template/Email/html/admin_withdrawal.ctp:9
+#: src/Template/Email/text/admin_withdrawal.ctp:7
+msgid "Withdraw Id"
+msgstr ""
+
+#: src/Template/Email/html/admin_withdrawal.ctp:14
+#: src/Template/Email/text/admin_withdrawal.ctp:17
+msgid "Method"
+msgstr ""
+
+#: src/Template/Email/html/admin_withdrawal.ctp:16
+#: src/Template/Email/text/admin_withdrawal.ctp:20
+msgid "Account"
+msgstr ""
+
+#: src/Template/Email/html/approve_withdraw.ctp:12
+#: src/Template/Email/text/approve_withdraw.ctp:13
+msgid ""
+"Your withdrawal request #{0} has been approved for amount {1} and will be "
+"sent via {2}"
+msgstr ""
+
+#: src/Template/Email/html/approve_withdraw.ctp:15
+#: src/Template/Email/text/approve_withdraw.ctp:17
+msgid ""
+"Your request will be processed as part of our normal schedule. You will "
+"receive an email when your withdrawal has been processed."
+msgstr ""
+
+#: src/Template/Email/html/change_email.ctp:3
+#: src/Template/Email/text/change_email.ctp:3
+msgid ""
+"To change your email click on the following link or copy-paste it in your "
+"browser:"
+msgstr ""
+
+#: src/Template/Email/html/complete_withdraw.ctp:12
+#: src/Template/Email/text/complete_withdraw.ctp:13
+msgid "We just processed your withdraw request #{0} for {1} via {2}"
+msgstr ""
+
+#: src/Template/Email/html/complete_withdraw.ctp:14
+#: src/Template/Email/text/complete_withdraw.ctp:16
+msgid "Happy Spending!"
+msgstr ""
+
+#: src/Template/Email/html/register.ctp:3
+#: src/Template/Email/text/register.ctp:3
+msgid ""
+"Thank you for registering at {0}. Your account is created and must be "
+"activated before you can use it."
+msgstr ""
+
+#: src/Template/Email/html/register.ctp:6
+#: src/Template/Email/text/register.ctp:7
+msgid ""
+"To activate the account click on the following link or copy-paste it in your "
+"browser:"
+msgstr ""
+
+#: src/Template/Email/html/reset_password.ctp:3
+#: src/Template/Email/text/reset_password.ctp:4
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: src/Template/Email/html/reset_password.ctp:7
+#: src/Template/Email/text/reset_password.ctp:10
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: src/Template/Email/html/reset_password.ctp:9
+#: src/Template/Email/text/reset_password.ctp:13
+msgid ""
+"To reset your password click on the following link or copy-paste it in your "
+"browser:"
+msgstr ""
+
+#: src/Template/Error/error400.ctp:38 src/Template/Error/error500.ctp:43
+msgid "Error"
+msgstr ""
+
+#: src/Template/Error/error400.ctp:40
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: src/Template/Error/error500.ctp:41
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: src/Template/Install/adminuser.ctp:2
+msgid "Step 3: Create Admin User"
+msgstr ""
+
+#: src/Template/Install/adminuser.ctp:49
+msgid "Confirm Password"
+msgstr ""
+
+#: src/Template/Install/data.ctp:2
+msgid "Step 2: Build database"
+msgstr ""
+
+#: src/Template/Install/data.ctp:10
+msgid "Create tables and load initial data"
+msgstr ""
+
+#: src/Template/Install/data.ctp:14
+msgid "Build database"
+msgstr ""
+
+#: src/Template/Install/database.ctp:2
+msgid "Step 1: Database"
+msgstr ""
+
+#: src/Template/Install/database.ctp:20
+msgid "Database Host URL"
+msgstr ""
+
+#: src/Template/Install/database.ctp:30
+msgid "Database Port"
+msgstr ""
+
+#: src/Template/Install/database.ctp:40
+msgid "Database Username"
+msgstr ""
+
+#: src/Template/Install/database.ctp:49
+msgid "Database Username Password"
+msgstr ""
+
+#: src/Template/Install/database.ctp:58
+msgid "Database Name"
+msgstr ""
+
+#: src/Template/Install/finish.ctp:2
+msgid "Installation successful"
+msgstr ""
+
+#: src/Template/Install/finish.ctp:9
+msgid "Access Home"
+msgstr ""
+
+#: src/Template/Install/finish.ctp:11
+msgid "Access Dashboard"
+msgstr ""
+
+#: src/Template/Install/index.ctp:2
+msgid "Installation: Welcome"
+msgstr ""
+
+#: src/Template/Install/index.ctp:21
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: src/Template/Install/index.ctp:29
+msgid "Your logs directory is NOT writable."
+msgstr ""
+
+#: src/Template/Install/index.ctp:37
+msgid "Your config directory is NOT writable."
+msgstr ""
+
+#: src/Template/Install/index.ctp:47
+msgid "PHP version {0} < {1}"
+msgstr ""
+
+#: src/Template/Install/index.ctp:54 src/Template/Install/index.ctp:96
+msgid "Your version of PHP does NOT have the mbstring extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:63
+msgid ""
+"Your version of PHP does NOT have the openssl or mcrypt extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:71
+msgid "Your version of PHP does NOT have the intl or mcrypt extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:78
+msgid "Your PHP curl extension should support https protocol."
+msgstr ""
+
+#: src/Template/Install/index.ctp:82
+msgid "Your version of PHP does NOT have the curl extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:89
+msgid "Your version of PHP does NOT have the dom extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:104
+msgid "Your version of PHP does NOT have the pdo_mysql extension loaded."
+msgstr ""
+
+#: src/Template/Install/index.ctp:111
+msgid "Installation can continue as minimum requirements are met."
+msgstr ""
+
+#: src/Template/Install/index.ctp:112
+msgid "Install"
+msgstr ""
+
+#: src/Template/Install/index.ctp:114
+msgid "Installation cannot continue as minimum requirements are not met."
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:77
+msgid "Member Area"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:102 src/Template/Layout/member.ctp:115
+msgid "Member since"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:112 src/Template/Layout/member.ctp:125
+#: src/Template/Layout/member.ctp:268 src/Template/Member/Users/profile.ctp:2
+#: src/Template/Member/Users/profile.ctp:4
+msgid "Profile"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:119 src/Template/Layout/member.ctp:132
+msgid "Log out"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:142
+msgid "Complete Upgrade Process"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:152
+msgid "Reports"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:158 src/Template/Layout/admin.ctp:182
+#: src/Template/Layout/member.ctp:228
+msgid "Campaigns"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:169 src/Template/Layout/member.ctp:180
+msgid "All Links"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:173 src/Template/Layout/member.ctp:184
+msgid "Hidden Links"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:177
+msgid "Inactive Links"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:188 src/Template/Layout/admin.ctp:233
+#: src/Template/Layout/admin.ctp:248 src/Template/Layout/admin.ctp:271
+#: src/Template/Layout/admin.ctp:304 src/Template/Layout/admin.ctp:319
+#: src/Template/Layout/admin.ctp:334 src/Template/Layout/member.ctp:234
+msgid "List"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:205
+msgid "Ads"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:227
+msgid "Withdraws"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:237 src/Template/Layout/admin.ctp:260
+msgid "Export"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:252 src/Template/Layout/admin.ctp:275
+#: src/Template/Layout/admin.ctp:308 src/Template/Layout/admin.ctp:323
+#: src/Template/Layout/admin.ctp:338
+msgid "Add"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:265
+msgid "Membership Plans"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:280 src/Template/Layout/member.ctp:259
+msgid "Invoices"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:289
+msgid "Posts List"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:298
+msgid "Pages"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:313
+msgid "Testimonials"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:328
+#: src/Template/Member/Users/dashboard.ctp:111
+msgid "Announcements"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:357
+msgid "Social Login"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:361
+msgid "Payment Methods"
+msgstr ""
+
+#: src/Template/Layout/admin.ctp:401
+msgid "Version"
+msgstr ""
+
+#: src/Template/Layout/install.ctp:51
+msgid "Developed by"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:76
+msgid "Administration Area"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:152
+msgid "New Shorten Link"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:189
+#: src/Template/Member/Withdraws/index.ctp:54
+msgid "Withdraw"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:192
+msgid "Tools"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:198 src/Template/Member/Tools/quick.ctp:2
+#: src/Template/Member/Tools/quick.ctp:4
+msgid "Quick Link"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:202
+#: src/Template/Member/Tools/mass_shrinker.ctp:2
+#: src/Template/Member/Tools/mass_shrinker.ctp:4
+msgid "Mass Shrinker"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:206 src/Template/Member/Tools/full.ctp:2
+#: src/Template/Member/Tools/full.ctp:4
+msgid "Full Page Script"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:210 src/Template/Member/Tools/api.ctp:2
+#: src/Template/Member/Tools/api.ctp:4
+msgid "Developers API"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:214
+#: src/Template/Member/Tools/bookmarklet.ctp:2
+#: src/Template/Member/Tools/bookmarklet.ctp:4
+msgid "Bookmarklet"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:272
+#: src/Template/Member/Users/change_password.ctp:2
+#: src/Template/Member/Users/change_password.ctp:4
+msgid "Change Password"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:276
+#: src/Template/Member/Users/change_email.ctp:2
+#: src/Template/Member/Users/change_email.ctp:4
+msgid "Change Email"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:284 src/Template/Member/Users/plans.ctp:2
+#: src/Template/Member/Users/plans.ctp:4 src/Template/Member/Users/plans.ctp:9
+msgid "Change Your Plan"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:294 src/Template/Layout/member.ctp:296
+msgid "Never"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:307
+msgid "Current Plan"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:315
+msgid "Expiration Date"
+msgstr ""
+
+#: src/Template/Layout/member.ctp:320 src/Template/Member/Users/plans.ctp:100
+msgid "Renew"
+msgstr ""
+
+#: src/Template/Links/captcha.ctp:79
+msgid ""
+"Signup for an account in just 2 minutes. Once you've completed your "
+"registration'.\n"
+"                    'just start creating short URLs and sharing the links "
+"with your family and friends."
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:21
+#: src/Template/Member/Campaigns/create_interstitial.ctp:21
+#: src/Template/Member/Campaigns/create_popup.ctp:21
+msgid ""
+"Please find our advertising rate table below. Each visitor you will purchase "
+"will meet the following criteria:"
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:24
+#: src/Template/Member/Campaigns/create_interstitial.ctp:25
+#: src/Template/Member/Campaigns/create_popup.ctp:25
+msgid "Unique within a 24 hour time frame"
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:25
+#: src/Template/Member/Campaigns/create_interstitial.ctp:26
+#: src/Template/Member/Campaigns/create_popup.ctp:26
+msgid "They will have JavaScript enabled"
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:26
+#: src/Template/Member/Campaigns/create_interstitial.ctp:27
+#: src/Template/Member/Campaigns/create_popup.ctp:27
+msgid "They will have Cookies enabled"
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:30
+#: src/Template/Member/Campaigns/create_interstitial.ctp:31
+#: src/Template/Member/Campaigns/create_popup.ctp:31
+msgid ""
+"You may receive traffic that does not meet this criteria, but you will never "
+"be charged for it."
+msgstr ""
+
+#: src/Template/Member/Campaigns/create_banner.ctp:127
+#: src/Template/Member/Campaigns/create_interstitial.ctp:111
+#: src/Template/Member/Campaigns/create_popup.ctp:111
+msgid ""
+"I agree to the <a href=\"{0}\" target=\"_blank\">terms and conditions</a>"
+msgstr ""
+
+#: src/Template/Member/Campaigns/index.ctp:151
+msgid "Pay"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:24
+msgid "Invoice Details"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:77
+msgid "Please Select"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:90
+msgid "Credit Card"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:100
+msgid "Expiration Month"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:110
+msgid "Expiration Year"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:120
+msgid "CVC"
+msgstr ""
+
+#: src/Template/Member/Invoices/view.ctp:151
+msgid "Pay Invoice"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:15 src/Template/Member/Tools/quick.ctp:16
+msgid "Your API token:"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:22
+msgid ""
+"For developers {0} prepared <b>API</b> which returns responses in <b>JSON</"
+"b> or <b>TEXT</b> formats. "
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:27
+msgid ""
+"Currently there is one method which can be used to shorten links on behalf "
+"of your account."
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:29
+msgid ""
+"All you have to do is to send a <b>GET</b> request with your API token and "
+"URL Like the following:"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:36
+msgid "You will get a JSON response like the following"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:42
+msgid ""
+"If you want a TEXT response just add <b>&format=text</b> at the end of your "
+"request as the below example. This will return just the short link. Note "
+"that if an error occurs, it will not output anything."
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:56
+msgid ""
+"If you want to use developers API with the interstitial advertising add the "
+"below code to the end of the URL"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:62
+msgid ""
+"If you want to use developers API with the banner advertising add the below "
+"code to the end of the URL"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:68
+msgid ""
+"If you want to use developers API without advertising add the below code to "
+"the end of the URL"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:74
+msgid "Note"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:75
+msgid ""
+"api & url are required fields and the other fields like alias, format & type "
+"are optional."
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:78
+msgid "That's it :)"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:80
+msgid "Using the API in PHP"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:82
+msgid ""
+"To use the API in your PHP application, you need to send a GET request via "
+"file_get_contents or cURL. Please check the below sample examples using "
+"file_get_contents"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:85
+msgid "Using JSON Response"
+msgstr ""
+
+#: src/Template/Member/Tools/api.ctp:99
+msgid "Using Plain Text Response"
+msgstr ""
+
+#: src/Template/Member/Tools/bookmarklet.ctp:15
+msgid ""
+"Short links more easily. Click and drag the following link to your links "
+"toolbar."
+msgstr ""
+
+#: src/Template/Member/Tools/bookmarklet.ctp:21
+msgid "Shorten!"
+msgstr ""
+
+#: src/Template/Member/Tools/bookmarklet.ctp:26
+msgid ""
+"Once this is on your toolbar, you'll be able to make a short link at the "
+"click of a button."
+msgstr ""
+
+#: src/Template/Member/Tools/bookmarklet.ctp:30
+msgid ""
+"This is compatible with most web browsers and platforms as long as your "
+"bookmarks or favorites allow javascript. The links toolbar may not be "
+"visible in all setups and in most browsers, you can enable it in the View-"
+">Toolbars menu of your web browser. You can also put it in your bookmarks "
+"instead of the links toolbar."
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:15
+msgid ""
+"If you have a website with 100's or 1000's of links you want to change over "
+"to {0} then please use the script below."
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:20
+msgid ""
+"Simply copy-and-paste the code below on to your webpage or blog and the "
+"links will be updated automatically!"
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:23
+msgid ""
+"You can add or remove any domains for the code that you use on your website."
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:47
+msgid ""
+"Or if you wish to change every link to {0} on your website (without stating "
+"exactly which domains) please use the following code."
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:77
+msgid ""
+"If you want to use Full Page Script with the interstitial advertising "
+"replace this code"
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:79 src/Template/Member/Tools/full.ctp:86
+#: src/Template/Member/Tools/full.ctp:93
+msgid "With"
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:84
+msgid ""
+"If you want to use Full Page Script with the banner advertising replace this "
+"code"
+msgstr ""
+
+#: src/Template/Member/Tools/full.ctp:91
+msgid ""
+"If you want to use Full Page Script without advertising replace this code"
+msgstr ""
+
+#: src/Template/Member/Tools/mass_shrinker.ctp:14
+msgid ""
+"Enter up to {0} URLs (one per line) to be shrunk and added to your account"
+msgstr ""
+
+#: src/Template/Member/Tools/mass_shrinker.ctp:17
+msgid ""
+"Note: The 'Mass Shrinker' can be disabled to your account if abused. Only "
+"create links that you will actually use."
+msgstr ""
+
+#: src/Template/Member/Tools/mass_shrinker.ctp:28
+msgid "It is not a valid URL."
+msgstr ""
+
+#: src/Template/Member/Tools/mass_shrinker.ctp:32
+msgid "All Short Links"
+msgstr ""
+
+#: src/Template/Member/Tools/mass_shrinker.ctp:43
+msgid "Shorten More Links"
+msgstr ""
+
+#: src/Template/Member/Tools/quick.ctp:22
+msgid "Everyone can use the shortest way to shorten links with {0}."
+msgstr ""
+
+#: src/Template/Member/Tools/quick.ctp:25
+msgid ""
+"Just copy the link below to address bar into your web browser, change last "
+"part to destination link and press ENTER. {0} will redirect you to your "
+"shortened link. Copy it wherever you want and get paid."
+msgstr ""
+
+#: src/Template/Member/Users/change_email.ctp:17
+msgid "Current Email"
+msgstr ""
+
+#: src/Template/Member/Users/change_email.ctp:26
+msgid "New Email"
+msgstr ""
+
+#: src/Template/Member/Users/change_email.ctp:35
+msgid "Re-enter New Email"
+msgstr ""
+
+#: src/Template/Member/Users/change_password.ctp:17
+msgid "Current Password"
+msgstr ""
+
+#: src/Template/Member/Users/dashboard.ctp:65
+msgid "Total Earnings"
+msgstr ""
+
+#: src/Template/Member/Users/dashboard.ctp:97
+msgid "Average CPM"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:70
+msgid "Free"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:73
+msgid "/ Month"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:76
+msgid "-"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:79
+msgid "/ Year"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:93
+msgid "Free Plan"
+msgstr ""
+
+#: src/Template/Member/Users/plans.ctp:102
+msgid "Buy Now"
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:14
+msgid "Billing Address"
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:105
+msgid "Withdrawal Info"
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:144
+msgid "- For PayPal, Payza, Skrill and Perfect Money add your email."
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:145
+msgid "- For Bitcoin add your wallet address."
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:146
+msgid "- For Web Money add your purse."
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:147
+msgid "- For Payeer add account, e-mail or phone number."
+msgstr ""
+
+#: src/Template/Member/Users/profile.ctp:148
+msgid ""
+"- For bank transfer add your account holder name, Bank Name, City/Town, "
+"Country, Account number, SWIFT, IBAN and Account currency"
+msgstr ""
+
+#: src/Template/Member/Users/referrals.ctp:29
+msgid "My Referrals"
+msgstr ""
+
+#: src/Template/Member/Withdraws/index.ctp:2
+#: src/Template/Member/Withdraws/index.ctp:4
+msgid "Withdraw Funds"
+msgstr ""
+
+#: src/Template/Member/Withdraws/index.ctp:62
+msgid ""
+"When your account reaches the minimum amount or more, you may request your "
+"earnings by clicking the above button. The payment is then sent to your "
+"withdraw account during business days no longer than 4 days after "
+"requesting. Please do not contact us regarding payments before due dates."
+msgstr ""
+
+#: src/Template/Member/Withdraws/index.ctp:70
+msgid ""
+"In order to receive your payments you need to fill your payment method and "
+"payment ID <a href=\"{0}\">here</a> if you haven't done so. You are also "
+"requested to fill all the required fields in the Account Details section "
+"with accurate data."
+msgstr ""
+
+#: src/Template/Member/Withdraws/index.ctp:117
+msgid ""
+"Complete: The payment has been successfully sent to your payment account."
+msgstr ""
+
+#: src/Template/Member/Withdraws/index.ctp:119
+msgid "Returned: The payment has been returned to your account."
+msgstr ""
+
+#: src/Template/Pages/home.ctp:29
+msgid "WHY JOIN US?"
+msgstr ""
+
+#: src/Template/Pages/home.ctp:30
+msgid "We have defined earning extra money from the comfort of your home."
+msgstr ""
+
+#: src/Template/Pages/home.ctp:51
+msgid ""
+"How can you start making money in {0}? It's just 3 steps: create an account, "
+"create a link and post it - for every visit, you earn money. It's just that "
+"easy!"
+msgstr ""
+
+#: src/Template/Pages/home.ctp:159
+msgid "Get in touch"
+msgstr ""
+
+#: src/Template/Posts/index.ctp:3
+msgid "Discover all the latest news and tips about our service."
+msgstr ""
+
+#: src/Template/Posts/index.ctp:41 src/Template/Posts/view.ctp:35
+msgid "Published on"
+msgstr ""
+
+#: src/Template/Statistics/view_info.ctp:39
+msgid "Clicks on last 30 days"
+msgstr ""
+
+#: src/Template/Statistics/view_info.ctp:62
+#: src/Template/Statistics/view_info.ctp:93
+msgid "Clicks"
+msgstr ""
+
+#: src/Template/Tools/bookmarklet.ctp:57
+msgid "Close"
+msgstr ""
