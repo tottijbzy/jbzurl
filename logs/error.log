@@ -1,0 +1,8 @@
+2018-04-26 13:16:22 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /links/shorten
+Referer URL: https://dotlink.me/member/dashboard
+2018-04-26 13:17:27 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /links/shorten
+Referer URL: https://dotlink.me/member/dashboard
+2018-04-26 23:49:33 Error: [Exception] The provider 'Google' is not enabled.
+Request URL: /auth/signin?provider=Google
